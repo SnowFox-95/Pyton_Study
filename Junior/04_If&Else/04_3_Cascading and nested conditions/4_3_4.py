@@ -14,9 +14,11 @@ a = int(input())
 b = int(input())
 c = int(input())
 
-if (a == b or a == c or b == c) and not(a==b==c)):
+if (a == b or a == c or b == c) and not(a==b==c):
     print("Равнобедренный")
+
 elif a == b == c:
     print("Равносторонний")
+
 else:
     print("Разносторонний")
