@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Bioinformatics Institute (80% completed)/3/3_04/datasets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bioinformatics Institute (80% completed)/3/3_04/outputs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Bioinformatics Institute (80% completed)/3/3_06/datasets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bioinformatics Institute (80% completed)/3/3_06/outputs" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
