@@ -4,9 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py">
-      <change afterPath="$PROJECT_DIR$/unsolved_tasks.html" afterDir="false" />
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="-">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04/3_04_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04/3_04_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04/3_04_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_05/3_05_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_05/3_05_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/3_06_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/3_06_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/datasets/dataset_3_06_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/datasets/dataset_3_06_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/outputs/output_3_06_2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/outputs/output_3_06_3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/datasets/dataset_3_07_5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/outputs/outputs_3_07_5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/!UnsolvedTasks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/!UnsolvedTasks.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Pyton_Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Pyton_Study.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +36,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -72,34 +92,37 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_07",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_07" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_06" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_05" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_04" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_01" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_07" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
-      <recent name="H:\MyPytonPojects\Pyton_Study" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_7" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_6" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_04\outputs" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_04\datasets" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_04" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.3_02_5">
-    <configuration name="3_01_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3_07_5">
+    <configuration name="3_06_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/3_06_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_01_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_06_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06/3_06_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_02_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_07_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,12 +174,56 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_07_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyton_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_07_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyton_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07/3_07_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,9 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3_02_5" />
-        <item itemvalue="Python.3_01_9" />
-        <item itemvalue="Python.3_01_8" />
+        <item itemvalue="Python.3_07_5" />
+        <item itemvalue="Python.3_07_3" />
+        <item itemvalue="Python.3_07_1" />
+        <item itemvalue="Python.3_06_3" />
+        <item itemvalue="Python.3_06_2" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +252,7 @@
       <updated>1655537105591</updated>
       <workItem from="1655537106800" duration="2630000" />
       <workItem from="1655542266638" duration="2749000" />
+      <workItem from="1655559412173" duration="2939000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -233,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655556657913</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="-">
+      <created>1655557779861</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1655557779861</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +349,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -285,16 +362,26 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="-refactoring" />
     <MESSAGE value="module 1 bioinformatic_course upload" />
     <MESSAGE value="minor update" />
-    <MESSAGE value="-" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py" />
+    <MESSAGE value="-" />
+    <option name="LAST_COMMIT_MESSAGE" value="-" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_04_4.coverage" NAME="3_04_4 Coverage Results" MODIFIED="1655559163890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_04_2.coverage" NAME="3_04_2 Coverage Results" MODIFIED="1655558633464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_06_2.coverage" NAME="3_06_2 Coverage Results" MODIFIED="1655560285844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_04_3.coverage" NAME="3_04_3 Coverage Results" MODIFIED="1655558988683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_05_3.coverage" NAME="3_05_3 Coverage Results" MODIFIED="1655559752961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_05" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_02_5.coverage" NAME="3_02_5 Coverage Results" MODIFIED="1655555298289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_06_3.coverage" NAME="3_06_3 Coverage Results" MODIFIED="1655560625992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_07_5.coverage" NAME="3_07_5 Coverage Results" MODIFIED="1655562364242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_07_1.coverage" NAME="3_07_1 Coverage Results" MODIFIED="1655560855650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$3_07_3.coverage" NAME="3_07_3 Coverage Results" MODIFIED="1655562004835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
   </component>
 </project>
