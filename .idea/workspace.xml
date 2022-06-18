@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update">
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_01/2_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_01/2_1_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_01/2_1_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_02/2_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -38,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12",
+    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/2/2_01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -47,6 +53,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\2\2_01" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
     </key>
@@ -67,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655537105591</updated>
       <workItem from="1655537106800" duration="2630000" />
-      <workItem from="1655542266638" duration="2749000" />
+      <workItem from="1655542266638" duration="3734000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -97,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655545025225</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="minor update">
+      <created>1655545182107</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655545182107</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
