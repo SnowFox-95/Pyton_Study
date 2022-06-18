@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_03/2_03_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_03/2_03_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_04/2_04_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_04/2_04_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_04/2_4.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_05/2_05_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_05/2_05_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_05/2_05_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_05/2_5.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_06/2_06_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_06/2_06_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_06/2_06_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_06/2_06_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/2/2_06/2_06_11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +39,6 @@
         </map>
       </branch-storage>
     </favorite-branches>
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -63,15 +46,6 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="SOFT" />
-    <option name="UPDATE_TYPE" value="REBASE" />
-  </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="recentNewPullRequestHead">
-      <RepoCoordinatesHolder>
-        <option name="owner" value="DataZer095" />
-        <option name="repository" value="Pyton_Study" />
-      </RepoCoordinatesHolder>
-    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -85,32 +59,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/2/2_06",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\2\2_06" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\2\2_05" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\2" />
       <recent name="H:\MyPytonPojects\Pyton_Study" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_7" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_6" />
+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -159,35 +130,7 @@
       <option name="project" value="LOCAL" />
       <updated>1655546925173</updated>
     </task>
-    <task id="LOCAL-00006" summary="minor update">
-      <created>1655547001025</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1655547001025</updated>
-    </task>
-    <task id="LOCAL-00007" summary="minor update">
-      <created>1655547275324</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1655547275324</updated>
-    </task>
-    <task id="LOCAL-00008" summary="minor update">
-      <created>1655548262393</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1655548262393</updated>
-    </task>
-    <task id="LOCAL-00009" summary="minor update">
-      <created>1655548337975</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1655548337975</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,55 +139,17 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="47782768-ed04-4a67-ab35-583a9ece76fe">
-          <value>
-            <State>
-              <option name="CUSTOM_BOOLEAN_PROPERTIES">
-                <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="Need_Solved" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State>
               <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="Show.Git.Branches" value="true" />
-                </map>
-              </option>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="master" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="false" />
                 </map>
               </option>
             </State>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="OPEN_GENERIC_TABS">
-      <map>
-        <entry key="47782768-ed04-4a67-ab35-583a9ece76fe" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
@@ -254,6 +159,5 @@
     <MESSAGE value="module 1 bioinformatic_course upload" />
     <MESSAGE value="minor update" />
     <option name="LAST_COMMIT_MESSAGE" value="minor update" />
-    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
