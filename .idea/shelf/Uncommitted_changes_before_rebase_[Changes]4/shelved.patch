@@ -1,0 +1,181 @@
+Index: UnsolvedTasks.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/UnsolvedTasks.ipynb b/UnsolvedTasks.ipynb
+new file mode 100644
+--- /dev/null	(date 1655556288194)
++++ b/UnsolvedTasks.ipynb	(date 1655556288194)
+@@ -0,0 +1,63 @@
++{
++ "cells": [
++  {
++   "cell_type": "markdown",
++   "source": [
++    "Здесь будут лежать пути к нерешенным задачам с курсов Stepic"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%% md\n"
++    }
++   }
++  },
++  {
++   "cell_type": "markdown",
++   "source": [
++    "#1\n",
++    "Pyton_Study/BEEGEEK/Junior/04_If&Else/04_3_Cascading and nested conditions/4_3_11"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%% md\n"
++    }
++   }
++  },
++  {
++   "cell_type": "markdown",
++   "source": [
++    "#2\n",
++    "Bioinformatics Institute (80% completed)/3/3_02/3_02_7"
++   ],
++   "metadata": {
++    "collapsed": false,
++    "pycharm": {
++     "name": "#%% md\n"
++    }
++   }
++  }
++ ],
++ "metadata": {
++  "kernelspec": {
++   "display_name": "Python 3",
++   "language": "python",
++   "name": "python3"
++  },
++  "language_info": {
++   "codemirror_mode": {
++    "name": "ipython",
++    "version": 2
++   },
++   "file_extension": ".py",
++   "mimetype": "text/x-python",
++   "name": "python",
++   "nbconvert_exporter": "python",
++   "pygments_lexer": "ipython2",
++   "version": "2.7.6"
++  }
++ },
++ "nbformat": 4,
++ "nbformat_minor": 0
++}
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"Module 2 BioinformaticCourse uploaded\">\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\\3_02\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\\3_01\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.3_02_5\">\r\n    <configuration name=\"3_01_8\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"3_01_9\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"3_02_5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.3_02_5\" />\r\n        <item itemvalue=\"Python.3_01_9\" />\r\n        <item itemvalue=\"Python.3_01_8\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"47782768-ed04-4a67-ab35-583a9ece76fe\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_8.coverage\" NAME=\"3_01_8 Coverage Results\" MODIFIED=\"1655554822736\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_9.coverage\" NAME=\"3_01_9 Coverage Results\" MODIFIED=\"1655555003937\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e7f9f3cee4bbc7111bff86accc6679d01bb164f0)
++++ b/.idea/workspace.xml	(date 1655555947270)
+@@ -5,13 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Module 2 BioinformaticCourse uploaded">
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -47,6 +41,12 @@
+         </map>
+       </branch-storage>
+     </favorite-branches>
++    <option name="PUSH_TAGS">
++      <GitPushTagMode>
++        <option name="argument" value="--tags" />
++        <option name="title" value="All" />
++      </GitPushTagMode>
++    </option>
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+         <entry key="$PROJECT_DIR$" value="master" />
+@@ -54,6 +54,7 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+     <option name="RESET_MODE" value="SOFT" />
++    <option name="UPDATE_TYPE" value="REBASE" />
+   </component>
+   <component name="MarkdownSettingsMigration">
+     <option name="stateVersion" value="1" />
+@@ -67,18 +68,18 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
+@@ -215,7 +216,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1655546925173</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="Module 2 BioinformaticCourse uploaded">
++      <created>1655555665789</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1655555665789</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -271,10 +279,12 @@
+     <MESSAGE value="-refactoring" />
+     <MESSAGE value="module 1 bioinformatic_course upload" />
+     <MESSAGE value="minor update" />
+-    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
++    <MESSAGE value="Module 2 BioinformaticCourse uploaded" />
++    <option name="LAST_COMMIT_MESSAGE" value="Module 2 BioinformaticCourse uploaded" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
++    <SUITE FILE_PATH="coverage/Pyton_Study$3_02_5.coverage" NAME="3_02_5 Coverage Results" MODIFIED="1655555298289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+   </component>
+ </project>
+\ No newline at end of file
