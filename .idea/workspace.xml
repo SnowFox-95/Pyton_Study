@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="-refactoring">
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_11/1_11.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/1/1_12/1_12_7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/02_Data-input-and-output/02_5_Integer_arithmetic_Part_2/!quiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/02_Data-input-and-output/02_5_Integer_arithmetic_Part_2/02_5.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/03_Exam1/Exam_Part1/exam1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/03_Exam1/Exam_Part1/exam1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/04_If&amp;Else/04_2_Boolean operations/!quiz.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/04_If&amp;Else/04_2_Boolean operations/4_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_11.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_2-4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioinformatics Institute/1_5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bioinformatics Institute/1_6.ipynb" beforeDir="false" />
-    </list>
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,7 +67,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655537105591</updated>
       <workItem from="1655537106800" duration="2630000" />
-      <workItem from="1655542266638" duration="2306000" />
+      <workItem from="1655542266638" duration="2749000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -100,7 +83,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655538357858</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="module 1 bioinformatic_course upload">
+      <created>1655544850006</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1655544850006</updated>
+    </task>
+    <task id="LOCAL-00004" summary="minor update">
+      <created>1655545025225</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655545025225</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +123,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="-" />
     <MESSAGE value="-refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="-refactoring" />
+    <MESSAGE value="module 1 bioinformatic_course upload" />
+    <MESSAGE value="minor update" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
   </component>
 </project>
