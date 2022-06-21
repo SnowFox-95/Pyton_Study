@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_2">
-      <change beforePath="$PROJECT_DIR$/!UnsolvedTasks.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/!UnsolvedTasks.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_Refactoring_module" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,11 +85,11 @@
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_07" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\MyPytonPojects\Pyton_Study\BEEGEEK\Junior\07_For_and_While_loops" />
       <recent name="H:\MyPytonPojects\Pyton_Study\BEEGEEK\Junior\06_Type_of_data" />
       <recent name="H:\MyPytonPojects\Pyton_Study\BEEGEEK" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_07" />
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
-      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_04\outputs" />
     </key>
   </component>
   <component name="RunManager" selected="Python.07_2_11">
@@ -230,7 +228,7 @@
       <workItem from="1655667153061" duration="5469000" />
       <workItem from="1655752524854" duration="2752000" />
       <workItem from="1655795148676" duration="620000" />
-      <workItem from="1655845692310" duration="1906000" />
+      <workItem from="1655845692310" duration="2306000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -358,7 +356,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655847474048</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="07_Refactoring_module">
+      <created>1655847953460</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655847953460</updated>
+    </task>
+    <task id="LOCAL-00020" summary="07_Refactoring_module">
+      <created>1655848009019</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1655848009019</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -423,7 +435,8 @@
     <MESSAGE value="06_3 upload" />
     <MESSAGE value="07_1" />
     <MESSAGE value="07_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="07_2" />
+    <MESSAGE value="07_Refactoring_module" />
+    <option name="LAST_COMMIT_MESSAGE" value="07_Refactoring_module" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
