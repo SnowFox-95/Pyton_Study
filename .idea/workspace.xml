@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_Refactoring_module" />
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_Refactoring_module">
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +105,8 @@
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_2_11">
-    <configuration name="07_2_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07_3_14">
+    <configuration name="07_3_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:\MyPytonPojects\Pyton_Study\BEEGEEK\Junior\07\07_2\07_2_07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_2_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_3_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2/07_2_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_2_09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_3_12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -145,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2/07_2_09.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_2_10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_3_13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,12 +180,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2/07_2_10.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07_2_11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07_3_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,12 +202,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2/07_2_11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/07_3_14.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +218,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07_2_11" />
-        <item itemvalue="Python.07_2_10" />
-        <item itemvalue="Python.07_2_09" />
-        <item itemvalue="Python.07_2_08" />
-        <item itemvalue="Python.07_2_07" />
+        <item itemvalue="Python.07_3_14" />
+        <item itemvalue="Python.07_3_13" />
+        <item itemvalue="Python.07_3_12" />
+        <item itemvalue="Python.07_3_11" />
+        <item itemvalue="Python.07_3_10" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +241,8 @@
       <workItem from="1655667153061" duration="5469000" />
       <workItem from="1655752524854" duration="2752000" />
       <workItem from="1655795148676" duration="620000" />
-      <workItem from="1655845692310" duration="2306000" />
+      <workItem from="1655845692310" duration="2502000" />
+      <workItem from="1655889668286" duration="4494000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -370,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655848009019</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="07_Refactoring_module">
+      <created>1655848163681</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1655848163681</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -440,6 +461,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_11.coverage" NAME="07_3_11 Coverage Results" MODIFIED="1655893908005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_3.coverage" NAME="07_1_3 Coverage Results" MODIFIED="1655752909199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_7.coverage" NAME="07_2_7 Coverage Results" MODIFIED="1655846050096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_3_5.coverage" NAME="06_3_5 Coverage Results" MODIFIED="1655670855750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math" />
@@ -447,27 +469,36 @@
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_08.coverage" NAME="07_2_08 Coverage Results" MODIFIED="1655846533218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_05_3.coverage" NAME="3_05_3 Coverage Results" MODIFIED="1655559752961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_05" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_09.coverage" NAME="07_2_09 Coverage Results" MODIFIED="1655846827353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_09.coverage" NAME="07_3_09 Coverage Results" MODIFIED="1655892556810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_04_2.coverage" NAME="3_04_2 Coverage Results" MODIFIED="1655558633464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_10.coverage" NAME="07_1_10 Coverage Results" MODIFIED="1655755122701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_06.coverage" NAME="07_3_06 Coverage Results" MODIFIED="1655890324327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_10.coverage" NAME="07_2_10 Coverage Results" MODIFIED="1655847204591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_2_5.coverage" NAME="06_2_5 Coverage Results" MODIFIED="1655586482768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_10.coverage" NAME="07_3_10 Coverage Results" MODIFIED="1655893649184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_4.coverage" NAME="07_1_4 Coverage Results" MODIFIED="1655753085591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_06_3.coverage" NAME="3_06_3 Coverage Results" MODIFIED="1655560625992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_07_1.coverage" NAME="3_07_1 Coverage Results" MODIFIED="1655560855650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_04_4.coverage" NAME="3_04_4 Coverage Results" MODIFIED="1655559163890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_2_8.coverage" NAME="06_2_8 Coverage Results" MODIFIED="1655587438334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_7.coverage" NAME="07_1_7 Coverage Results" MODIFIED="1655753552125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_13.coverage" NAME="07_3_13 Coverage Results" MODIFIED="1655894746119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_02_5.coverage" NAME="3_02_5 Coverage Results" MODIFIED="1655555298289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_2.coverage" NAME="07_1_2 Coverage Results" MODIFIED="1655752801977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_07.coverage" NAME="07_3_07 Coverage Results" MODIFIED="1655890903064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_12.coverage" NAME="07_3_12 Coverage Results" MODIFIED="1655894192761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_07_3.coverage" NAME="3_07_3 Coverage Results" MODIFIED="1655562004835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_3_4.coverage" NAME="06_3_4 Coverage Results" MODIFIED="1655670412214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_3_7.coverage" NAME="06_3_7 Coverage Results" MODIFIED="1655672106001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_06_2.coverage" NAME="3_06_2 Coverage Results" MODIFIED="1655560285844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_05.coverage" NAME="07_3_05 Coverage Results" MODIFIED="1655890116790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_08.coverage" NAME="07_3_08 Coverage Results" MODIFIED="1655891164324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_04_3.coverage" NAME="3_04_3 Coverage Results" MODIFIED="1655558988683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_07_5.coverage" NAME="3_07_5 Coverage Results" MODIFIED="1655562364242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_8.coverage" NAME="07_1_8 Coverage Results" MODIFIED="1655753777250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$06_2_6.coverage" NAME="06_2_6 Coverage Results" MODIFIED="1655586733846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$07_3_14.coverage" NAME="07_3_14 Coverage Results" MODIFIED="1655894930222" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
   </component>
 </project>
