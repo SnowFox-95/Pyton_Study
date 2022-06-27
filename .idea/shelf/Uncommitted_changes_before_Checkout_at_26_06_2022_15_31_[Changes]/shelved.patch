@@ -1,0 +1,1876 @@
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]4/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,181 +0,0 @@
+-Index: UnsolvedTasks.ipynb
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/UnsolvedTasks.ipynb b/UnsolvedTasks.ipynb
+-new file mode 100644
+---- /dev/null	(date 1655556288194)
+-+++ b/UnsolvedTasks.ipynb	(date 1655556288194)
+-@@ -0,0 +1,63 @@
+-+{
+-+ "cells": [
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "Здесь будут лежать пути к нерешенным задачам с курсов Stepic"
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  },
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "#1\n",
+-+    "Pyton_Study/BEEGEEK/Junior/04_If&Else/04_3_Cascading and nested conditions/4_3_11"
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  },
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "#2\n",
+-+    "Bioinformatics Institute (80% completed)/3/3_02/3_02_7"
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  }
+-+ ],
+-+ "metadata": {
+-+  "kernelspec": {
+-+   "display_name": "Python 3",
+-+   "language": "python",
+-+   "name": "python3"
+-+  },
+-+  "language_info": {
+-+   "codemirror_mode": {
+-+    "name": "ipython",
+-+    "version": 2
+-+   },
+-+   "file_extension": ".py",
+-+   "mimetype": "text/x-python",
+-+   "name": "python",
+-+   "nbconvert_exporter": "python",
+-+   "pygments_lexer": "ipython2",
+-+   "version": "2.7.6"
+-+  }
+-+ },
+-+ "nbformat": 4,
+-+ "nbformat_minor": 0
+-+}
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"Module 2 BioinformaticCourse uploaded\">\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"WebServerToolWindowFactoryState\": \"false\",\r\n    \"last_opened_file_path\": \"H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\\3_02\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\\3_01\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.3_02_5\">\r\n    <configuration name=\"3_01_8\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"3_01_9\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"3_02_5\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.3_02_5\" />\r\n        <item itemvalue=\"Python.3_01_9\" />\r\n        <item itemvalue=\"Python.3_01_8\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"47782768-ed04-4a67-ab35-583a9ece76fe\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_8.coverage\" NAME=\"3_01_8 Coverage Results\" MODIFIED=\"1655554822736\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_9.coverage\" NAME=\"3_01_9 Coverage Results\" MODIFIED=\"1655555003937\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision e7f9f3cee4bbc7111bff86accc6679d01bb164f0)
+-+++ b/.idea/workspace.xml	(date 1655555947270)
+-@@ -5,13 +5,7 @@
+-   </component>
+-   <component name="ChangeListManager">
+-     <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Module 2 BioinformaticCourse uploaded">
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py" afterDir="false" />
+--      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
+--      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py" beforeDir="false" afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py" afterDir="false" />
+-     </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-@@ -47,6 +41,12 @@
+-         </map>
+-       </branch-storage>
+-     </favorite-branches>
+-+    <option name="PUSH_TAGS">
+-+      <GitPushTagMode>
+-+        <option name="argument" value="--tags" />
+-+        <option name="title" value="All" />
+-+      </GitPushTagMode>
+-+    </option>
+-     <option name="RECENT_BRANCH_BY_REPOSITORY">
+-       <map>
+-         <entry key="$PROJECT_DIR$" value="master" />
+-@@ -54,6 +54,7 @@
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-     <option name="RESET_MODE" value="SOFT" />
+-+    <option name="UPDATE_TYPE" value="REBASE" />
+-   </component>
+-   <component name="MarkdownSettingsMigration">
+-     <option name="stateVersion" value="1" />
+-@@ -67,18 +68,18 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent"><![CDATA[{
+--  "keyToString": {
+--    "RunOnceActivity.OpenProjectViewOnStart": "true",
+--    "RunOnceActivity.ShowReadmeOnStart": "true",
+--    "WebServerToolWindowFactoryState": "false",
+--    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+--    "node.js.detected.package.eslint": "true",
+--    "node.js.detected.package.tslint": "true",
+--    "node.js.selected.package.eslint": "(autodetect)",
+--    "node.js.selected.package.tslint": "(autodetect)"
+-+  <component name="PropertiesComponent">{
+-+  &quot;keyToString&quot;: {
+-+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+-+    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02&quot;,
+-+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+-+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+-+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+-+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+-   }
+--}]]></component>
+-+}</component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
+-@@ -215,7 +216,14 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1655546925173</updated>
+-     </task>
+--    <option name="localTasksCounter" value="6" />
+-+    <task id="LOCAL-00006" summary="Module 2 BioinformaticCourse uploaded">
+-+      <created>1655555665789</created>
+-+      <option name="number" value="00006" />
+-+      <option name="presentableId" value="LOCAL-00006" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1655555665789</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="7" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+-@@ -271,10 +279,12 @@
+-     <MESSAGE value="-refactoring" />
+-     <MESSAGE value="module 1 bioinformatic_course upload" />
+-     <MESSAGE value="minor update" />
+--    <option name="LAST_COMMIT_MESSAGE" value="minor update" />
+-+    <MESSAGE value="Module 2 BioinformaticCourse uploaded" />
+-+    <option name="LAST_COMMIT_MESSAGE" value="Module 2 BioinformaticCourse uploaded" />
+-   </component>
+-   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_02_5.coverage" NAME="3_02_5 Coverage Results" MODIFIED="1655555298289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+-     <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-   </component>
+- </project>
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]3/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,504 +0,0 @@
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-new file mode 100644
+---- /dev/null	(date 1655555647502)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py	(date 1655555647502)
+-@@ -0,0 +1,25 @@
+-+'''
+-+Напишите функцию f(x), которая возвращает значение следующей функции, определённой на
+-+всей числовой прямой:
+-+
+-+f(x) = 1 - (x+2)^2, при x<=-2
+-+f(x) = - x/2, при -2<x<=2
+-+f(x) = ((x-2)^2)+1, при 2<x
+-+
+-+Требуется реализовать только функцию, решение не должно осуществлять операций ввода-вывода.
+-+'''
+-+
+-+def f(x):
+-+    if x<=-2:
+-+        f= 1 - ((x+2)**2)
+-+        return f
+-+    elif (-2<x<=2):
+-+        f=-(x/2)
+-+        return f
+-+    elif x>2:
+-+        f= ((x-2)**2)+1
+-+        return f
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+x = float(input())
+-+print(f(x))
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-new file mode 100644
+---- /dev/null	(date 1655555647489)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb	(date 1655555647489)
+-@@ -0,0 +1,72 @@
+-+{
+-+ "cells": [
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "#3\n",
+-+    "Есть функция f, которая определена следующим образом:\n",
+-+    "\n",
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "Введите её в интерпретаторе и посчитайте, чему равно значение следующего выражения:\n",
+-+    "\n",
+-+    "f(f(f(10)))\n",
+-+    "\n",
+-+    "Разберитесь, почему получается именно такое значение."
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  },
+-+  {
+-+   "cell_type": "code",
+-+   "execution_count": 2,
+-+   "metadata": {
+-+    "collapsed": true,
+-+    "pycharm": {
+-+     "name": "#%%\n"
+-+    }
+-+   },
+-+   "outputs": [
+-+    {
+-+     "name": "stdout",
+-+     "output_type": "stream",
+-+     "text": [
+-+      "10555\n"
+-+     ]
+-+    }
+-+   ],
+-+   "source": [
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "print(f(f(f(10)))) #CorrectAnswer - 10555"
+-+   ]
+-+  }
+-+ ],
+-+ "metadata": {
+-+  "kernelspec": {
+-+   "display_name": "Python 3",
+-+   "language": "python",
+-+   "name": "python3"
+-+  },
+-+  "language_info": {
+-+   "codemirror_mode": {
+-+    "name": "ipython",
+-+    "version": 2
+-+   },
+-+   "file_extension": ".py",
+-+   "mimetype": "text/x-python",
+-+   "name": "python",
+-+   "nbconvert_exporter": "python",
+-+   "pygments_lexer": "ipython2",
+-+   "version": "2.7.6"
+-+  }
+-+ },
+-+ "nbformat": 4,
+-+ "nbformat_minor": 0
+-+}
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-new file mode 100644
+---- /dev/null	(date 1655555647482)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py	(date 1655555647482)
+-@@ -0,0 +1,14 @@
+-+'''
+-+Напишите программу, которая считывает строку с числом n, которое задаёт количество
+-+чисел, которые нужно считать. Далее считывает n строк с числами x_i, по одному числу в
+-+каждой строке. Итого будет n+1 строк.
+-+
+-+При считывании числа x_i программа должна на отдельной строке вывести значение f(x_i).
+-+Функция f(x) уже реализована и доступна для вызова.
+-+
+-+Функция вычисляется достаточно долго и зависит только от переданного аргумента x. Для
+-+того, чтобы уложиться в ограничение по времени, нужно избежать повторного вычисления
+-+значений.
+-+'''
+-+
+-+#Решение задачи где-то тут
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-new file mode 100644
+---- /dev/null	(date 1655555647476)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py	(date 1655555647476)
+-@@ -0,0 +1,40 @@
+-+'''
+-+Когда Антон прочитал «Войну и мир», ему стало интересно, сколько слов и в каком
+-+количестве используется в этой книге.
+-+Помогите Антону написать упрощённую версию такой программы, которая сможет подсчитать
+-+слова, разделённые пробелом и вывести получившуюся статистику.
+-+
+-+Программа должна считывать одну строку со стандартного ввода и выводить для каждого
+-+уникального слова в этой строке число его повторений (без учёта регистра) в формате
+-+"слово количество".
+-+Порядок вывода слов может быть произвольным, каждое уникальное слово должно выводиться
+-+только один раз.
+-+'''
+-+
+-+
+-+def get_words(str):
+-+    str = str.replace("\n", " ")
+-+    str = str.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
+-+    str = str.lower()
+-+    words = str.split()
+-+    words.sort()
+-+    return words
+-+
+-+
+-+def get_words_dict(words):
+-+    words_dict = dict()
+-+
+-+    for word in words:
+-+        if word in words_dict:
+-+            words_dict[word] = words_dict[word] + 1
+-+        else:
+-+            words_dict[word] = 1
+-+    return words_dict
+-+
+-+
+-+str = input()
+-+words = get_words(str)
+-+words_dict = get_words_dict(words)
+-+for word in words_dict:
+-+    print(word.ljust(2), words_dict[word])
+-+
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"minor update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 57f2e8d82fc224a871038821092e5814b974ccae)
+-+++ b/.idea/workspace.xml	(date 1655555647497)
+-@@ -4,7 +4,15 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
+-+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Module 2 BioinformaticCourse uploaded">
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -59,30 +67,107 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_01" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
+-     </key>
+-     <key name="MoveFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_7" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_6" />
+--      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_5" />
+-     </key>
+-+  </component>
+-+  <component name="RunManager" selected="Python.3_02_5">
+-+    <configuration name="3_01_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_01_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_02_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.3_02_5" />
+-+        <item itemvalue="Python.3_01_9" />
+-+        <item itemvalue="Python.3_01_8" />
+-+      </list>
+-+    </recent_temporary>
+-   </component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-@@ -139,6 +224,23 @@
+-   <component name="Vcs.Log.Tabs.Properties">
+-     <option name="TAB_STATES">
+-       <map>
+-+        <entry key="47782768-ed04-4a67-ab35-583a9ece76fe">
+-+          <value>
+-+            <State>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-+            </State>
+-+          </value>
+-+        </entry>
+-         <entry key="MAIN">
+-           <value>
+-             <State>
+-@@ -147,6 +249,17 @@
+-                   <entry key="Show.Git.Branches" value="false" />
+-                 </map>
+-               </option>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-             </State>
+-           </value>
+-         </entry>
+-@@ -160,4 +273,8 @@
+-     <MESSAGE value="minor update" />
+-     <option name="LAST_COMMIT_MESSAGE" value="minor update" />
+-   </component>
+-+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-new file mode 100644
+---- /dev/null	(date 1655555647512)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py	(date 1655555647512)
+-@@ -0,0 +1,38 @@
+-+'''
+-+Напишите функцию modify_list(l), которая принимает на вход список целых чисел, удаляет
+-+из него все нечётные значения, а чётные нацело делит на два. Функция не должна ничего
+-+возвращать, требуется только изменение переданного списка, например:
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-+Функция не должна осуществлять ввод/вывод информации.
+-+'''
+-+
+-+def modify_list(l):
+-+    i, n = 0, len(l)
+-+    while i < n:
+-+        if l[i] % 2:
+-+            l.pop(i)
+-+            n -= 1
+-+        else:
+-+            l[i] = l[i] // 2
+-+            i += 1
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-new file mode 100644
+---- /dev/null	(date 1655555647507)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py	(date 1655555647507)
+-@@ -0,0 +1,52 @@
+-+'''
+-+Напишите функцию update_dictionary(d, key, value), которая принимает на вход словарь d
+-+и два числа: key и value.
+-+
+-+Если ключ key есть в словаре d, то добавьте значение value в список, который
+-+хранится по этому ключу.
+-+Если ключа key нет в словаре, то нужно добавить значение в список по ключу 2 * key.
+-+Если и ключа 2 * key нет, то нужно добавить ключ 2 * key в словарь и сопоставить ему
+-+список из переданного элемента [value].
+-+
+-+Требуется реализовать только эту функцию, кода вне её не должно быть.
+-+Функция не должна вызывать внутри себя функции input и print.
+-+
+-+Пример работы функции:
+-+
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-+'''
+-+
+-+def update_dictionary(d, key, value):
+-+    # put your python code here
+-+    if key in d:
+-+        d[key].append(value)
+-+        #print('ключ есть')
+-+    elif key is not d:
+-+        #d[2*key]=[]
+-+        if 2*key is d:
+-+            d[2*key].append(value)
+-+            #print('ключ 2*key уже есть')
+-+        elif (2*key is not d) and d.get(2*key)==None:
+-+            d[2*key]=[]
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + новое значение списка')
+-+        elif (2*key is not d) and d.get(2*key)!=None:
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + значение списка')
+-+    return
+-+
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,59 +0,0 @@
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"minor update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision d04a0e8d997e3cbd6c0269145c0ab25afc512932)
+-+++ b/.idea/workspace.xml	(date 1655547878198)
+-@@ -4,7 +4,9 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
+-+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update">
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -46,6 +48,14 @@
+-     </option>
+-     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+-     <option name="RESET_MODE" value="SOFT" />
+-+  </component>
+-+  <component name="GithubPullRequestsUISettings">
+-+    <option name="recentNewPullRequestHead">
+-+      <RepoCoordinatesHolder>
+-+        <option name="owner" value="DataZer095" />
+-+        <option name="repository" value="Pyton_Study" />
+-+      </RepoCoordinatesHolder>
+-+    </option>
+-   </component>
+-   <component name="MarkdownSettingsMigration">
+-     <option name="stateVersion" value="1" />
+-@@ -130,7 +140,21 @@
+-       <option name="project" value="LOCAL" />
+-       <updated>1655546925173</updated>
+-     </task>
+--    <option name="localTasksCounter" value="6" />
+-+    <task id="LOCAL-00006" summary="minor update">
+-+      <created>1655547001025</created>
+-+      <option name="number" value="00006" />
+-+      <option name="presentableId" value="LOCAL-00006" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1655547001025</updated>
+-+    </task>
+-+    <task id="LOCAL-00007" summary="minor update">
+-+      <created>1655547275324</created>
+-+      <option name="number" value="00007" />
+-+      <option name="presentableId" value="LOCAL-00007" />
+-+      <option name="project" value="LOCAL" />
+-+      <updated>1655547275324</updated>
+-+    </task>
+-+    <option name="localTasksCounter" value="8" />
+-     <servers />
+-   </component>
+-   <component name="TypeScriptGeneratedFilesManager">
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]2/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,504 +0,0 @@
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-new file mode 100644
+---- /dev/null	(date 1655555624347)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py	(date 1655555624347)
+-@@ -0,0 +1,40 @@
+-+'''
+-+Когда Антон прочитал «Войну и мир», ему стало интересно, сколько слов и в каком
+-+количестве используется в этой книге.
+-+Помогите Антону написать упрощённую версию такой программы, которая сможет подсчитать
+-+слова, разделённые пробелом и вывести получившуюся статистику.
+-+
+-+Программа должна считывать одну строку со стандартного ввода и выводить для каждого
+-+уникального слова в этой строке число его повторений (без учёта регистра) в формате
+-+"слово количество".
+-+Порядок вывода слов может быть произвольным, каждое уникальное слово должно выводиться
+-+только один раз.
+-+'''
+-+
+-+
+-+def get_words(str):
+-+    str = str.replace("\n", " ")
+-+    str = str.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
+-+    str = str.lower()
+-+    words = str.split()
+-+    words.sort()
+-+    return words
+-+
+-+
+-+def get_words_dict(words):
+-+    words_dict = dict()
+-+
+-+    for word in words:
+-+        if word in words_dict:
+-+            words_dict[word] = words_dict[word] + 1
+-+        else:
+-+            words_dict[word] = 1
+-+    return words_dict
+-+
+-+
+-+str = input()
+-+words = get_words(str)
+-+words_dict = get_words_dict(words)
+-+for word in words_dict:
+-+    print(word.ljust(2), words_dict[word])
+-+
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-new file mode 100644
+---- /dev/null	(date 1655555624323)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py	(date 1655555624323)
+-@@ -0,0 +1,14 @@
+-+'''
+-+Напишите программу, которая считывает строку с числом n, которое задаёт количество
+-+чисел, которые нужно считать. Далее считывает n строк с числами x_i, по одному числу в
+-+каждой строке. Итого будет n+1 строк.
+-+
+-+При считывании числа x_i программа должна на отдельной строке вывести значение f(x_i).
+-+Функция f(x) уже реализована и доступна для вызова.
+-+
+-+Функция вычисляется достаточно долго и зависит только от переданного аргумента x. Для
+-+того, чтобы уложиться в ограничение по времени, нужно избежать повторного вычисления
+-+значений.
+-+'''
+-+
+-+#Решение задачи где-то тут
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-new file mode 100644
+---- /dev/null	(date 1655555624369)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb	(date 1655555624369)
+-@@ -0,0 +1,72 @@
+-+{
+-+ "cells": [
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "#3\n",
+-+    "Есть функция f, которая определена следующим образом:\n",
+-+    "\n",
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "Введите её в интерпретаторе и посчитайте, чему равно значение следующего выражения:\n",
+-+    "\n",
+-+    "f(f(f(10)))\n",
+-+    "\n",
+-+    "Разберитесь, почему получается именно такое значение."
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  },
+-+  {
+-+   "cell_type": "code",
+-+   "execution_count": 2,
+-+   "metadata": {
+-+    "collapsed": true,
+-+    "pycharm": {
+-+     "name": "#%%\n"
+-+    }
+-+   },
+-+   "outputs": [
+-+    {
+-+     "name": "stdout",
+-+     "output_type": "stream",
+-+     "text": [
+-+      "10555\n"
+-+     ]
+-+    }
+-+   ],
+-+   "source": [
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "print(f(f(f(10)))) #CorrectAnswer - 10555"
+-+   ]
+-+  }
+-+ ],
+-+ "metadata": {
+-+  "kernelspec": {
+-+   "display_name": "Python 3",
+-+   "language": "python",
+-+   "name": "python3"
+-+  },
+-+  "language_info": {
+-+   "codemirror_mode": {
+-+    "name": "ipython",
+-+    "version": 2
+-+   },
+-+   "file_extension": ".py",
+-+   "mimetype": "text/x-python",
+-+   "name": "python",
+-+   "nbconvert_exporter": "python",
+-+   "pygments_lexer": "ipython2",
+-+   "version": "2.7.6"
+-+  }
+-+ },
+-+ "nbformat": 4,
+-+ "nbformat_minor": 0
+-+}
+-\ No newline at end of file
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"minor update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 57f2e8d82fc224a871038821092e5814b974ccae)
+-+++ b/.idea/workspace.xml	(date 1655555624341)
+-@@ -4,7 +4,15 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
+-+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Module 2 BioinformaticCourse uploaded">
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -59,30 +67,107 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_01" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
+-     </key>
+-     <key name="MoveFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_7" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_6" />
+--      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_5" />
+-     </key>
+-+  </component>
+-+  <component name="RunManager" selected="Python.3_02_5">
+-+    <configuration name="3_01_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_01_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_02_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.3_02_5" />
+-+        <item itemvalue="Python.3_01_9" />
+-+        <item itemvalue="Python.3_01_8" />
+-+      </list>
+-+    </recent_temporary>
+-   </component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-@@ -139,6 +224,23 @@
+-   <component name="Vcs.Log.Tabs.Properties">
+-     <option name="TAB_STATES">
+-       <map>
+-+        <entry key="47782768-ed04-4a67-ab35-583a9ece76fe">
+-+          <value>
+-+            <State>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-+            </State>
+-+          </value>
+-+        </entry>
+-         <entry key="MAIN">
+-           <value>
+-             <State>
+-@@ -147,6 +249,17 @@
+-                   <entry key="Show.Git.Branches" value="false" />
+-                 </map>
+-               </option>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-             </State>
+-           </value>
+-         </entry>
+-@@ -160,4 +273,8 @@
+-     <MESSAGE value="minor update" />
+-     <option name="LAST_COMMIT_MESSAGE" value="minor update" />
+-   </component>
+-+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-new file mode 100644
+---- /dev/null	(date 1655555624363)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py	(date 1655555624363)
+-@@ -0,0 +1,25 @@
+-+'''
+-+Напишите функцию f(x), которая возвращает значение следующей функции, определённой на
+-+всей числовой прямой:
+-+
+-+f(x) = 1 - (x+2)^2, при x<=-2
+-+f(x) = - x/2, при -2<x<=2
+-+f(x) = ((x-2)^2)+1, при 2<x
+-+
+-+Требуется реализовать только функцию, решение не должно осуществлять операций ввода-вывода.
+-+'''
+-+
+-+def f(x):
+-+    if x<=-2:
+-+        f= 1 - ((x+2)**2)
+-+        return f
+-+    elif (-2<x<=2):
+-+        f=-(x/2)
+-+        return f
+-+    elif x>2:
+-+        f= ((x-2)**2)+1
+-+        return f
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+x = float(input())
+-+print(f(x))
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-new file mode 100644
+---- /dev/null	(date 1655555624357)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py	(date 1655555624357)
+-@@ -0,0 +1,52 @@
+-+'''
+-+Напишите функцию update_dictionary(d, key, value), которая принимает на вход словарь d
+-+и два числа: key и value.
+-+
+-+Если ключ key есть в словаре d, то добавьте значение value в список, который
+-+хранится по этому ключу.
+-+Если ключа key нет в словаре, то нужно добавить значение в список по ключу 2 * key.
+-+Если и ключа 2 * key нет, то нужно добавить ключ 2 * key в словарь и сопоставить ему
+-+список из переданного элемента [value].
+-+
+-+Требуется реализовать только эту функцию, кода вне её не должно быть.
+-+Функция не должна вызывать внутри себя функции input и print.
+-+
+-+Пример работы функции:
+-+
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-+'''
+-+
+-+def update_dictionary(d, key, value):
+-+    # put your python code here
+-+    if key in d:
+-+        d[key].append(value)
+-+        #print('ключ есть')
+-+    elif key is not d:
+-+        #d[2*key]=[]
+-+        if 2*key is d:
+-+            d[2*key].append(value)
+-+            #print('ключ 2*key уже есть')
+-+        elif (2*key is not d) and d.get(2*key)==None:
+-+            d[2*key]=[]
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + новое значение списка')
+-+        elif (2*key is not d) and d.get(2*key)!=None:
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + значение списка')
+-+    return
+-+
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-new file mode 100644
+---- /dev/null	(date 1655555624352)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py	(date 1655555624352)
+-@@ -0,0 +1,38 @@
+-+'''
+-+Напишите функцию modify_list(l), которая принимает на вход список целых чисел, удаляет
+-+из него все нечётные значения, а чётные нацело делит на два. Функция не должна ничего
+-+возвращать, требуется только изменение переданного списка, например:
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-+Функция не должна осуществлять ввод/вывод информации.
+-+'''
+-+
+-+def modify_list(l):
+-+    i, n = 0, len(l)
+-+    while i < n:
+-+        if l[i] % 2:
+-+            l.pop(i)
+-+            n -= 1
+-+        else:
+-+            l[i] = l[i] // 2
+-+            i += 1
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-\ No newline at end of file
+Index: .idea/shelf/Uncommitted_changes_before_Update_at_19_06_2022_0_36_[Changes]/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_Update_at_19_06_2022_0_36_[Changes]/shelved.patch b/.idea/shelf/Uncommitted_changes_before_Update_at_19_06_2022_0_36_[Changes]/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_Update_at_19_06_2022_0_36_[Changes]/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,21 +0,0 @@
+-Index: BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py b/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py
+-new file mode 100644
+---- /dev/null	(date 1655587534175)
+-+++ b/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py	(date 1655587534175)
+-@@ -0,0 +1,11 @@
+-+'''
+-+Арифметические строки
+-+Вводятся 3 строки в случайном порядке. Напишите программу, которая выясняет можно ли из длин этих строк построить возрастающую арифметическую прогрессию.
+-+
+-+Формат входных данных
+-+На вход программе подаются три строки, каждая на отдельной строке.
+-+
+-+Формат выходных данных
+-+Программа должна вывести строку «YES», если из длин введенных слов можно построить арифметическую прогрессию, «NO» в ином случае.
+-+'''
+-+
+Index: .idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+===================================================================
+diff --git a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch b/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch
+deleted file mode 100644
+--- a/.idea/shelf/Uncommitted_changes_before_rebase_[Changes]1/shelved.patch	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ /dev/null	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
+@@ -1,504 +0,0 @@
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py
+-new file mode 100644
+---- /dev/null	(date 1655555622900)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_7(unsolved).py	(date 1655555622900)
+-@@ -0,0 +1,14 @@
+-+'''
+-+Напишите программу, которая считывает строку с числом n, которое задаёт количество
+-+чисел, которые нужно считать. Далее считывает n строк с числами x_i, по одному числу в
+-+каждой строке. Итого будет n+1 строк.
+-+
+-+При считывании числа x_i программа должна на отдельной строке вывести значение f(x_i).
+-+Функция f(x) уже реализована и доступна для вызова.
+-+
+-+Функция вычисляется достаточно долго и зависит только от переданного аргумента x. Для
+-+того, чтобы уложиться в ограничение по времени, нужно избежать повторного вычисления
+-+значений.
+-+'''
+-+
+-+#Решение задачи где-то тут
+-Index: .idea/workspace.xml
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+-<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"minor update\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Jupyter Notebook\" />\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\\1_12\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\1\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_7\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_6\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute\\1\\1_5\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"6\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"false\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"minor update\" />\r\n  </component>\r\n</project>
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+---- a/.idea/workspace.xml	(revision 57f2e8d82fc224a871038821092e5814b974ccae)
+-+++ b/.idea/workspace.xml	(date 1655555331509)
+-@@ -4,7 +4,15 @@
+-     <option name="autoReloadType" value="SELECTIVE" />
+-   </component>
+-   <component name="ChangeListManager">
+--    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="minor update" />
+-+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Module 2 BioinformaticCourse uploaded">
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py" afterDir="false" />
+-+      <change afterPath="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_7.py" afterDir="false" />
+-+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-+    </list>
+-     <option name="SHOW_DIALOG" value="false" />
+-     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+-     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+-@@ -59,30 +67,107 @@
+-     <option name="hideEmptyMiddlePackages" value="true" />
+-     <option name="showLibraryContents" value="true" />
+-   </component>
+--  <component name="PropertiesComponent">{
+--  &quot;keyToString&quot;: {
+--    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+--    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+--    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+--    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/1/1_12&quot;,
+--    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+--    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+--    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+--    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+-+  <component name="PropertiesComponent"><![CDATA[{
+-+  "keyToString": {
+-+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-+    "RunOnceActivity.ShowReadmeOnStart": "true",
+-+    "WebServerToolWindowFactoryState": "false",
+-+    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/Bioinformatics Institute (80% completed)/3/3_02",
+-+    "node.js.detected.package.eslint": "true",
+-+    "node.js.detected.package.tslint": "true",
+-+    "node.js.selected.package.eslint": "(autodetect)",
+-+    "node.js.selected.package.tslint": "(autodetect)"
+-   }
+--}</component>
+-+}]]></component>
+-   <component name="RecentsManager">
+-     <key name="CopyFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_02" />
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_01" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1\1_12" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute" />
+-     </key>
+-     <key name="MoveFile.RECENT_KEYS">
+-+      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\1" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_7" />
+-       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_6" />
+--      <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute\1\1_5" />
+-     </key>
+-+  </component>
+-+  <component name="RunManager" selected="Python.3_02_5">
+-+    <configuration name="3_01_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_01_9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <configuration name="3_02_5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+-+      <module name="Pyton_Study" />
+-+      <option name="INTERPRETER_OPTIONS" value="" />
+-+      <option name="PARENT_ENVS" value="true" />
+-+      <envs>
+-+        <env name="PYTHONUNBUFFERED" value="1" />
+-+      </envs>
+-+      <option name="SDK_HOME" value="" />
+-+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+-+      <option name="IS_MODULE_SDK" value="true" />
+-+      <option name="ADD_CONTENT_ROOTS" value="true" />
+-+      <option name="ADD_SOURCE_ROOTS" value="true" />
+-+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+-+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py" />
+-+      <option name="PARAMETERS" value="" />
+-+      <option name="SHOW_COMMAND_LINE" value="false" />
+-+      <option name="EMULATE_TERMINAL" value="false" />
+-+      <option name="MODULE_MODE" value="false" />
+-+      <option name="REDIRECT_INPUT" value="false" />
+-+      <option name="INPUT_FILE" value="" />
+-+      <method v="2" />
+-+    </configuration>
+-+    <recent_temporary>
+-+      <list>
+-+        <item itemvalue="Python.3_02_5" />
+-+        <item itemvalue="Python.3_01_9" />
+-+        <item itemvalue="Python.3_01_8" />
+-+      </list>
+-+    </recent_temporary>
+-   </component>
+-   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+-   <component name="TaskManager">
+-@@ -139,6 +224,23 @@
+-   <component name="Vcs.Log.Tabs.Properties">
+-     <option name="TAB_STATES">
+-       <map>
+-+        <entry key="47782768-ed04-4a67-ab35-583a9ece76fe">
+-+          <value>
+-+            <State>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-+            </State>
+-+          </value>
+-+        </entry>
+-         <entry key="MAIN">
+-           <value>
+-             <State>
+-@@ -147,6 +249,17 @@
+-                   <entry key="Show.Git.Branches" value="false" />
+-                 </map>
+-               </option>
+-+              <option name="FILTERS">
+-+                <map>
+-+                  <entry key="branch">
+-+                    <value>
+-+                      <list>
+-+                        <option value="master" />
+-+                      </list>
+-+                    </value>
+-+                  </entry>
+-+                </map>
+-+              </option>
+-             </State>
+-           </value>
+-         </entry>
+-@@ -160,4 +273,8 @@
+-     <MESSAGE value="minor update" />
+-     <option name="LAST_COMMIT_MESSAGE" value="minor update" />
+-   </component>
+-+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_8.coverage" NAME="3_01_8 Coverage Results" MODIFIED="1655554822736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+    <SUITE FILE_PATH="coverage/Pyton_Study$3_01_9.coverage" NAME="3_01_9 Coverage Results" MODIFIED="1655555003937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01" />
+-+  </component>
+- </project>
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py
+-new file mode 100644
+---- /dev/null	(date 1655555394767)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_6.py	(date 1655555394767)
+-@@ -0,0 +1,40 @@
+-+'''
+-+Когда Антон прочитал «Войну и мир», ему стало интересно, сколько слов и в каком
+-+количестве используется в этой книге.
+-+Помогите Антону написать упрощённую версию такой программы, которая сможет подсчитать
+-+слова, разделённые пробелом и вывести получившуюся статистику.
+-+
+-+Программа должна считывать одну строку со стандартного ввода и выводить для каждого
+-+уникального слова в этой строке число его повторений (без учёта регистра) в формате
+-+"слово количество".
+-+Порядок вывода слов может быть произвольным, каждое уникальное слово должно выводиться
+-+только один раз.
+-+'''
+-+
+-+
+-+def get_words(str):
+-+    str = str.replace("\n", " ")
+-+    str = str.replace(",", "").replace(".", "").replace("?", "").replace("!", "")
+-+    str = str.lower()
+-+    words = str.split()
+-+    words.sort()
+-+    return words
+-+
+-+
+-+def get_words_dict(words):
+-+    words_dict = dict()
+-+
+-+    for word in words:
+-+        if word in words_dict:
+-+            words_dict[word] = words_dict[word] + 1
+-+        else:
+-+            words_dict[word] = 1
+-+    return words_dict
+-+
+-+
+-+str = input()
+-+words = get_words(str)
+-+words_dict = get_words_dict(words)
+-+for word in words_dict:
+-+    print(word.ljust(2), words_dict[word])
+-+
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py
+-new file mode 100644
+---- /dev/null	(date 1655555076756)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_9.py	(date 1655555076756)
+-@@ -0,0 +1,38 @@
+-+'''
+-+Напишите функцию modify_list(l), которая принимает на вход список целых чисел, удаляет
+-+из него все нечётные значения, а чётные нацело делит на два. Функция не должна ничего
+-+возвращать, требуется только изменение переданного списка, например:
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-+Функция не должна осуществлять ввод/вывод информации.
+-+'''
+-+
+-+def modify_list(l):
+-+    i, n = 0, len(l)
+-+    while i < n:
+-+        if l[i] % 2:
+-+            l.pop(i)
+-+            n -= 1
+-+        else:
+-+            l[i] = l[i] // 2
+-+            i += 1
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+
+-+lst = [1, 2, 3, 4, 5, 6]
+-+print(modify_list(lst))  # None
+-+print(lst)               # [1, 2, 3]
+-+modify_list(lst)
+-+print(lst)               # [1]
+-+
+-+lst = [10, 5, 8, 3]
+-+modify_list(lst)
+-+print(lst)               # [5, 4]
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py
+-new file mode 100644
+---- /dev/null	(date 1655555298279)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_02/3_02_5.py	(date 1655555298279)
+-@@ -0,0 +1,52 @@
+-+'''
+-+Напишите функцию update_dictionary(d, key, value), которая принимает на вход словарь d
+-+и два числа: key и value.
+-+
+-+Если ключ key есть в словаре d, то добавьте значение value в список, который
+-+хранится по этому ключу.
+-+Если ключа key нет в словаре, то нужно добавить значение в список по ключу 2 * key.
+-+Если и ключа 2 * key нет, то нужно добавить ключ 2 * key в словарь и сопоставить ему
+-+список из переданного элемента [value].
+-+
+-+Требуется реализовать только эту функцию, кода вне её не должно быть.
+-+Функция не должна вызывать внутри себя функции input и print.
+-+
+-+Пример работы функции:
+-+
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-+'''
+-+
+-+def update_dictionary(d, key, value):
+-+    # put your python code here
+-+    if key in d:
+-+        d[key].append(value)
+-+        #print('ключ есть')
+-+    elif key is not d:
+-+        #d[2*key]=[]
+-+        if 2*key is d:
+-+            d[2*key].append(value)
+-+            #print('ключ 2*key уже есть')
+-+        elif (2*key is not d) and d.get(2*key)==None:
+-+            d[2*key]=[]
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + новое значение списка')
+-+        elif (2*key is not d) and d.get(2*key)!=None:
+-+            d[2*key].append(value)
+-+            #print('создание ключа и + значение списка')
+-+    return
+-+
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+d = {}
+-+print(update_dictionary(d, 1, -1))  # None
+-+print(d)                            # {2: [-1]}
+-+update_dictionary(d, 2, -2)
+-+print(d)                            # {2: [-1, -2]}
+-+update_dictionary(d, 1, -3)
+-+print(d)                            # {2: [-1, -2, -3]}
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py
+-new file mode 100644
+---- /dev/null	(date 1655555076769)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_01_8.py	(date 1655555076769)
+-@@ -0,0 +1,25 @@
+-+'''
+-+Напишите функцию f(x), которая возвращает значение следующей функции, определённой на
+-+всей числовой прямой:
+-+
+-+f(x) = 1 - (x+2)^2, при x<=-2
+-+f(x) = - x/2, при -2<x<=2
+-+f(x) = ((x-2)^2)+1, при 2<x
+-+
+-+Требуется реализовать только функцию, решение не должно осуществлять операций ввода-вывода.
+-+'''
+-+
+-+def f(x):
+-+    if x<=-2:
+-+        f= 1 - ((x+2)**2)
+-+        return f
+-+    elif (-2<x<=2):
+-+        f=-(x/2)
+-+        return f
+-+    elif x>2:
+-+        f= ((x-2)**2)+1
+-+        return f
+-+
+-+# КОД ДЛЯ ПРОВЕРКИ РАБОТЫ ФУНКЦИИ. НЕ ДЛЯ КОПИИ
+-+x = float(input())
+-+print(f(x))
+-\ No newline at end of file
+-Index: Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-IDEA additional info:
+-Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+-<+>UTF-8
+-===================================================================
+-diff --git a/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb
+-new file mode 100644
+---- /dev/null	(date 1655554572098)
+-+++ b/Bioinformatics Institute (80% completed)/3/3_01/3_1.ipynb	(date 1655554572098)
+-@@ -0,0 +1,72 @@
+-+{
+-+ "cells": [
+-+  {
+-+   "cell_type": "markdown",
+-+   "source": [
+-+    "#3\n",
+-+    "Есть функция f, которая определена следующим образом:\n",
+-+    "\n",
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "Введите её в интерпретаторе и посчитайте, чему равно значение следующего выражения:\n",
+-+    "\n",
+-+    "f(f(f(10)))\n",
+-+    "\n",
+-+    "Разберитесь, почему получается именно такое значение."
+-+   ],
+-+   "metadata": {
+-+    "collapsed": false,
+-+    "pycharm": {
+-+     "name": "#%% md\n"
+-+    }
+-+   }
+-+  },
+-+  {
+-+   "cell_type": "code",
+-+   "execution_count": 2,
+-+   "metadata": {
+-+    "collapsed": true,
+-+    "pycharm": {
+-+     "name": "#%%\n"
+-+    }
+-+   },
+-+   "outputs": [
+-+    {
+-+     "name": "stdout",
+-+     "output_type": "stream",
+-+     "text": [
+-+      "10555\n"
+-+     ]
+-+    }
+-+   ],
+-+   "source": [
+-+    "def f(n):\n",
+-+    "    return n * 10 + 5\n",
+-+    "\n",
+-+    "print(f(f(f(10)))) #CorrectAnswer - 10555"
+-+   ]
+-+  }
+-+ ],
+-+ "metadata": {
+-+  "kernelspec": {
+-+   "display_name": "Python 3",
+-+   "language": "python",
+-+   "name": "python3"
+-+  },
+-+  "language_info": {
+-+   "codemirror_mode": {
+-+    "name": "ipython",
+-+    "version": 2
+-+   },
+-+   "file_extension": ".py",
+-+   "mimetype": "text/x-python",
+-+   "name": "python",
+-+   "nbconvert_exporter": "python",
+-+   "pygments_lexer": "ipython2",
+-+   "version": "2.7.6"
+-+  }
+-+ },
+-+ "nbformat": 4,
+-+ "nbformat_minor": 0
+-+}
+-\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"07_5\">\r\n      <change afterPath=\"$PROJECT_DIR$/DFU/01/01_1/task.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/DFU/01/01_2/01_2.ipynb\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/DFU/01/01_2/bmi.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/DFU/01/01_3/01_3.ipynb\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/DFU/01/01_3/task7.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n        <option value=\"Python Script\" />\r\n        <option value=\"Jupyter Notebook\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <favorite-branches>\r\n      <branch-storage>\r\n        <map>\r\n          <entry type=\"LOCAL\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n          <entry type=\"REMOTE\">\r\n            <value>\r\n              <list>\r\n                <branch-info repo=\"$PROJECT_DIR$\" source=\"origin/Need_Solved\" />\r\n              </list>\r\n            </value>\r\n          </entry>\r\n        </map>\r\n      </branch-storage>\r\n    </favorite-branches>\r\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"need_solved\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n    <option name=\"RESET_MODE\" value=\"SOFT\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Ajy5WM3tYjGiR1cx52XFAR2fVE\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"autoscrollToSource\" value=\"true\" />\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/BEEGEEK/Junior/07_For_and_While_loops/07_4_While_Loops&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\\07_For_and_While_loops\\07_4_While_Loops\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\\06_Type_of_data\\06_3_Math\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\\06_Type_of_data\\06_2_String\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (100%)\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\" />\r\n    </key>\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\\07_For_and_While_loops\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\\Junior\\06_Type_of_data\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\BEEGEEK\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\\3_07\" />\r\n      <recent name=\"H:\\MyPytonPojects\\Pyton_Study\\Bioinformatics Institute (80% completed)\\3\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.task7\">\r\n    <configuration name=\"07_5_08\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers/07_5_08.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"07_5_09\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers/07_5_09.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"07_5_10\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers/07_5_10.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"bmi\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/DFU/01/01_2\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/DFU/01/01_2/bmi.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"task7\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"Pyton_Study\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/DFU/01/01_3\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <EXTENSION ID=\"PythonCoverageRunConfigurationExtension\" runner=\"coverage.py\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/DFU/01/01_3/task7.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.task7\" />\r\n        <item itemvalue=\"Python.bmi\" />\r\n        <item itemvalue=\"Python.07_5_10\" />\r\n        <item itemvalue=\"Python.07_5_09\" />\r\n        <item itemvalue=\"Python.07_5_08\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"8588faaf-2d80-4386-8dca-51e10604efd4\" name=\"Changes\" comment=\"\" />\r\n      <created>1655537105591</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1655537105591</updated>\r\n      <workItem from=\"1655537106800\" duration=\"2630000\" />\r\n      <workItem from=\"1655542266638\" duration=\"2749000\" />\r\n      <workItem from=\"1655559412173\" duration=\"3317000\" />\r\n      <workItem from=\"1655579556533\" duration=\"3893000\" />\r\n      <workItem from=\"1655667153061\" duration=\"5469000\" />\r\n      <workItem from=\"1655752524854\" duration=\"2752000\" />\r\n      <workItem from=\"1655795148676\" duration=\"620000\" />\r\n      <workItem from=\"1655845692310\" duration=\"2502000\" />\r\n      <workItem from=\"1655889668286\" duration=\"4730000\" />\r\n      <workItem from=\"1656105538723\" duration=\"28000\" />\r\n      <workItem from=\"1656138719680\" duration=\"3914000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"-\">\r\n      <created>1655537162531</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655537162531</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"-refactoring\">\r\n      <created>1655538357858</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655538357858</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"module 1 bioinformatic_course upload\">\r\n      <created>1655544850006</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655544850006</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"minor update\">\r\n      <created>1655545025225</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655545025225</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"minor update\">\r\n      <created>1655546925173</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655546925173</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"-\">\r\n      <created>1655556392783</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655556392783</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py\">\r\n      <created>1655556657913</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655556657913</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"-\">\r\n      <created>1655557779861</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655557779861</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Course BioinformaticPyton Uploaded full\">\r\n      <created>1655562490856</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655562490856</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Course BioinformaticPyton Uploaded full\">\r\n      <created>1655579628732</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655579628732</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"minor update\">\r\n      <created>1655579702118</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655579702118</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"readme files uploaded\">\r\n      <created>1655580454129</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655580454129</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"06_2\">\r\n      <created>1655588199142</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655588199142</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"06_2 upload\">\r\n      <created>1655669064591</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655669064591</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"06_3 upload\">\r\n      <created>1655672422311</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655672422311</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"07_1\">\r\n      <created>1655755183312</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655755183312</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"07_2\">\r\n      <created>1655846173572</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655846173572</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00018\" summary=\"07_2\">\r\n      <created>1655847474048</created>\r\n      <option name=\"number\" value=\"00018\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00018\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655847474048</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00019\" summary=\"07_Refactoring_module\">\r\n      <created>1655847953460</created>\r\n      <option name=\"number\" value=\"00019\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00019\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655847953460</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00020\" summary=\"07_Refactoring_module\">\r\n      <created>1655848009019</created>\r\n      <option name=\"number\" value=\"00020\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00020\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655848009019</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00021\" summary=\"07_Refactoring_module\">\r\n      <created>1655848163681</created>\r\n      <option name=\"number\" value=\"00021\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00021\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655848163681</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00022\" summary=\"07_3\">\r\n      <created>1655895139333</created>\r\n      <option name=\"number\" value=\"00022\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00022\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1655895139333</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00023\" summary=\"07_4\">\r\n      <created>1656100605641</created>\r\n      <option name=\"number\" value=\"00023\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00023\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1656100605641</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00024\" summary=\"07_5\">\r\n      <created>1656105377214</created>\r\n      <option name=\"number\" value=\"00024\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00024\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1656105377214</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"25\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"47782768-ed04-4a67-ab35-583a9ece76fe\">\r\n          <value>\r\n            <State>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"master\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"HEAD\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n        <entry key=\"aebefe38-89b2-4a7b-bace-ef900669ad7a\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n              <option name=\"FILTERS\">\r\n                <map>\r\n                  <entry key=\"branch\">\r\n                    <value>\r\n                      <list>\r\n                        <option value=\"origin/basement\" />\r\n                      </list>\r\n                    </value>\r\n                  </entry>\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"-refactoring\" />\r\n    <MESSAGE value=\"module 1 bioinformatic_course upload\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py\" />\r\n    <MESSAGE value=\"-\" />\r\n    <MESSAGE value=\"Course BioinformaticPyton Uploaded full\" />\r\n    <MESSAGE value=\"minor update\" />\r\n    <MESSAGE value=\"readme files uploaded\" />\r\n    <MESSAGE value=\"06_2\" />\r\n    <MESSAGE value=\"06_2 upload\" />\r\n    <MESSAGE value=\"06_3 upload\" />\r\n    <MESSAGE value=\"07_1\" />\r\n    <MESSAGE value=\"07_2\" />\r\n    <MESSAGE value=\"07_Refactoring_module\" />\r\n    <MESSAGE value=\"07_3\" />\r\n    <MESSAGE value=\"07_4\" />\r\n    <MESSAGE value=\"07_5\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"07_5\" />\r\n  </component>\r\n  <component name=\"com.intellij.coverage.CoverageDataManagerImpl\">\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_2_11.coverage\" NAME=\"07_2_11 Coverage Results\" MODIFIED=\"1655847446415\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_11.coverage\" NAME=\"07_3_11 Coverage Results\" MODIFIED=\"1655893908005\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_3.coverage\" NAME=\"07_1_3 Coverage Results\" MODIFIED=\"1655752909199\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_2_7.coverage\" NAME=\"07_2_7 Coverage Results\" MODIFIED=\"1655846050096\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$task7.coverage\" NAME=\"task7 Coverage Results\" MODIFIED=\"1656141599049\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/DFU/01/01_3\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_9.coverage\" NAME=\"07_1_9 Coverage Results\" MODIFIED=\"1655754096876\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_2_08.coverage\" NAME=\"07_2_08 Coverage Results\" MODIFIED=\"1655846533218\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_05_3.coverage\" NAME=\"3_05_3 Coverage Results\" MODIFIED=\"1655559752961\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_05\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_04_2.coverage\" NAME=\"3_04_2 Coverage Results\" MODIFIED=\"1655558633464\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_8.coverage\" NAME=\"3_01_8 Coverage Results\" MODIFIED=\"1655554822736\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_2_5.coverage\" NAME=\"06_2_5 Coverage Results\" MODIFIED=\"1655586482768\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_04.coverage\" NAME=\"07_5_04 Coverage Results\" MODIFIED=\"1656101619528\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_07.coverage\" NAME=\"07_5_07 Coverage Results\" MODIFIED=\"1656102869845\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_10.coverage\" NAME=\"07_5_10 Coverage Results\" MODIFIED=\"1656139929063\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_2_8.coverage\" NAME=\"06_2_8 Coverage Results\" MODIFIED=\"1655587438334\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_7.coverage\" NAME=\"07_1_7 Coverage Results\" MODIFIED=\"1655753552125\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_13.coverage\" NAME=\"07_3_13 Coverage Results\" MODIFIED=\"1655894746119\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_02_5.coverage\" NAME=\"3_02_5 Coverage Results\" MODIFIED=\"1655555298289\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_2.coverage\" NAME=\"07_1_2 Coverage Results\" MODIFIED=\"1655752801977\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_07.coverage\" NAME=\"07_3_07 Coverage Results\" MODIFIED=\"1655890903064\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_07_3.coverage\" NAME=\"3_07_3 Coverage Results\" MODIFIED=\"1655562004835\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_3_4.coverage\" NAME=\"06_3_4 Coverage Results\" MODIFIED=\"1655670412214\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_06_2.coverage\" NAME=\"3_06_2 Coverage Results\" MODIFIED=\"1655560285844\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_08.coverage\" NAME=\"07_3_08 Coverage Results\" MODIFIED=\"1655891164324\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_4_14.coverage\" NAME=\"07_4_14 Coverage Results\" MODIFIED=\"1656100563746\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_4_While_Loops\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_08.coverage\" NAME=\"07_5_08 Coverage Results\" MODIFIED=\"1656103001593\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_01_9.coverage\" NAME=\"3_01_9 Coverage Results\" MODIFIED=\"1655555003937\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_01\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_8.coverage\" NAME=\"07_1_8 Coverage Results\" MODIFIED=\"1655753777250\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_14.coverage\" NAME=\"07_3_14 Coverage Results\" MODIFIED=\"1655894942910\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_3_5.coverage\" NAME=\"06_3_5 Coverage Results\" MODIFIED=\"1655670855750\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_06.coverage\" NAME=\"07_5_06 Coverage Results\" MODIFIED=\"1656102170229\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_09.coverage\" NAME=\"07_5_09 Coverage Results\" MODIFIED=\"1656105020365\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_2_09.coverage\" NAME=\"07_2_09 Coverage Results\" MODIFIED=\"1655846827353\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_09.coverage\" NAME=\"07_3_09 Coverage Results\" MODIFIED=\"1655892556810\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_10.coverage\" NAME=\"07_1_10 Coverage Results\" MODIFIED=\"1655755122701\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_06.coverage\" NAME=\"07_3_06 Coverage Results\" MODIFIED=\"1655890324327\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_2_10.coverage\" NAME=\"07_2_10 Coverage Results\" MODIFIED=\"1655847204591\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_10.coverage\" NAME=\"07_3_10 Coverage Results\" MODIFIED=\"1655893649184\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_4_13.coverage\" NAME=\"07_4_13 Coverage Results\" MODIFIED=\"1656099949214\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_4_While_Loops\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_1_4.coverage\" NAME=\"07_1_4 Coverage Results\" MODIFIED=\"1655753085591\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07/07_1\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_06_3.coverage\" NAME=\"3_06_3 Coverage Results\" MODIFIED=\"1655560625992\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_06\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_07_1.coverage\" NAME=\"3_07_1 Coverage Results\" MODIFIED=\"1655560855650\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_04_4.coverage\" NAME=\"3_04_4 Coverage Results\" MODIFIED=\"1655559163890\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$bmi.coverage\" NAME=\"bmi Coverage Results\" MODIFIED=\"1656140034721\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/DFU/01/01_2\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_12.coverage\" NAME=\"07_3_12 Coverage Results\" MODIFIED=\"1655894192761\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_3_7.coverage\" NAME=\"06_3_7 Coverage Results\" MODIFIED=\"1655672106001\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_5_05.coverage\" NAME=\"07_5_05 Coverage Results\" MODIFIED=\"1656101820130\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_5_while_loop_numerical_processing_of_numbers\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$07_3_05.coverage\" NAME=\"07_3_05 Coverage Results\" MODIFIED=\"1655890116790\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_04_3.coverage\" NAME=\"3_04_3 Coverage Results\" MODIFIED=\"1655558988683\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_04\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$3_07_5.coverage\" NAME=\"3_07_5 Coverage Results\" MODIFIED=\"1655562364242\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_07\" />\r\n    <SUITE FILE_PATH=\"coverage/Pyton_Study$06_2_6.coverage\" NAME=\"06_2_6 Coverage Results\" MODIFIED=\"1655586733846\" SOURCE_PROVIDER=\"com.intellij.coverage.DefaultCoverageFileProvider\" RUNNER=\"coverage.py\" COVERAGE_BY_TEST_ENABLED=\"true\" COVERAGE_TRACING_ENABLED=\"false\" WORKING_DIRECTORY=\"$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision a5b1f19ca00330966bb403e36fb4f7f98de7581f)
++++ b/.idea/workspace.xml	(date 1656143218290)
+@@ -4,14 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_5">
+-      <change afterPath="$PROJECT_DIR$/DFU/01/01_1/task.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/DFU/01/01_2/01_2.ipynb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/DFU/01/01_2/bmi.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/DFU/01/01_3/01_3.ipynb" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/DFU/01/01_3/task7.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="DFU part1" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -238,7 +231,7 @@
+       <workItem from="1655845692310" duration="2502000" />
+       <workItem from="1655889668286" duration="4730000" />
+       <workItem from="1656105538723" duration="28000" />
+-      <workItem from="1656138719680" duration="3914000" />
++      <workItem from="1656138719680" duration="4465000" />
+     </task>
+     <task id="LOCAL-00001" summary="-">
+       <created>1655537162531</created>
+@@ -408,7 +401,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1656105377214</updated>
+     </task>
+-    <option name="localTasksCounter" value="25" />
++    <task id="LOCAL-00025" summary="DFU part1">
++      <created>1656143208845</created>
++      <option name="number" value="00025" />
++      <option name="presentableId" value="LOCAL-00025" />
++      <option name="project" value="LOCAL" />
++      <updated>1656143208845</updated>
++    </task>
++    <option name="localTasksCounter" value="26" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -499,7 +499,8 @@
+     <MESSAGE value="07_3" />
+     <MESSAGE value="07_4" />
+     <MESSAGE value="07_5" />
+-    <option name="LAST_COMMIT_MESSAGE" value="07_5" />
++    <MESSAGE value="DFU part1" />
++    <option name="LAST_COMMIT_MESSAGE" value="DFU part1" />
+   </component>
+   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
