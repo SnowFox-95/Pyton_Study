@@ -1,4 +1,4 @@
-'''
+"""
 Тригонометрическое выражение
 Напишите программу, вычисляющую значение тригонометрического выражения
 sin(x)+cos(x)+tan^2(x)
@@ -16,12 +16,12 @@ r = (x * pi)  / 180
 
 Примечание 2. Модуль math содержит встроенную функцию radians(), которая переводит угол
 из градусов в угол в радианах.
-'''
+"""
 from math import sin, cos, tan, pow, radians
-x = float(input())
-answer = sin(radians(x))+cos(radians(x))+pow(tan(radians(x)),2)
-print(answer)
 
+x = float(input())
+answer = sin(radians(x)) + cos(radians(x)) + pow(tan(radians(x)), 2)
+print(answer)
 
 ''' ПЕРВАЯ ВЕРСИЯ ПРОГИ
 from math import sin, cos, tan, pow, radians

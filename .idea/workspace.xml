@@ -8,13 +8,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="pep8">
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_05.py" afterDir="false" />
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="07_9p2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2/07_9_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_11.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_11.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_1_Int&amp;Float/06_1_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_2_String/06_2_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/06_Type_of_data/06_3_Math/06_3_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_1_For_loop/07_1_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/!07_2_09_1_uslov.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/!07_2_09_1_uslov.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_2_For_loop_Range_function/07_2_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/!07_3_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/!07_3_15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,22 +134,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/MyPytonPojects/Pyton_Study/BEEGEEK/Junior/07_For_and_While_loops/07_8_Nested_Loops_Part_1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/MyPytonPojects/Pyton_Study/BEEGEEK/Junior/07_For_and_While_loops/07_8_Nested_Loops_Part_1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\MyPytonPojects\Pyton_Study\BEEGEEK\Junior\07_For_and_While_loops\07_8_Nested_Loops_Part_1" />
@@ -127,7 +166,7 @@
       <recent name="H:\MyPytonPojects\Pyton_Study\Bioinformatics Institute (80% completed)\3\3_07" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07_9_05">
+  <component name="RunManager" selected="Python.!07_3_15">
     <configuration name="02_3_14" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Pyton_Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,28 +181,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/02_Data-input-and-output/02_3_-sep-_and_-end-_parameters/02_3_14.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="07_9_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Pyton_Study" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_9_nested_loops_part_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="H:\MyPytonPojects\Pyton_Study\BEEGEEK\Junior\07_For_and_While_loops\07_9_nested_loops_part_2\07_9_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,13 +255,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="!07_3_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Pyton_Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios/!07_3_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.!07_3_15" />
         <item itemvalue="Python.07_9_05" />
         <item itemvalue="Python.4_3_5" />
         <item itemvalue="Python.02_3_14" />
         <item itemvalue="Python.07_9_04" />
-        <item itemvalue="Python.07_9_03" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +313,8 @@
       <workItem from="1656446965073" duration="4520000" />
       <workItem from="1656495329623" duration="1153000" />
       <workItem from="1656499237060" duration="2542000" />
-      <workItem from="1656515420906" duration="5042000" />
+      <workItem from="1656515420906" duration="5297000" />
+      <workItem from="1656535912660" duration="2507000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -507,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656518258209</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="07_9p2">
+      <created>1656521451996</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1656521451996</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +629,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="-refactoring" />
     <MESSAGE value="module 1 bioinformatic_course upload" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;template.py" />
     <MESSAGE value="-" />
@@ -607,7 +653,8 @@
     <MESSAGE value="07_8p2" />
     <MESSAGE value="07_9p1" />
     <MESSAGE value="pep8" />
-    <option name="LAST_COMMIT_MESSAGE" value="pep8" />
+    <MESSAGE value="07_9p2" />
+    <option name="LAST_COMMIT_MESSAGE" value="07_9p2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
@@ -635,6 +682,7 @@
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_7.coverage" NAME="07_1_7 Coverage Results" MODIFIED="1655753552125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_3_13.coverage" NAME="07_3_13 Coverage Results" MODIFIED="1655894746119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$3_02_5.coverage" NAME="3_02_5 Coverage Results" MODIFIED="1655555298289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bioinformatics Institute (80% completed)/3/3_02" />
+    <SUITE FILE_PATH="coverage/Pyton_Study$_07_3_15.coverage" NAME="!07_3_15 Coverage Results" MODIFIED="1656538429502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_1_2.coverage" NAME="07_1_2 Coverage Results" MODIFIED="1655752801977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_1" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_3_07.coverage" NAME="07_3_07 Coverage Results" MODIFIED="1655890903064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_3_For_Loops_Common_Scenarios" />
     <SUITE FILE_PATH="coverage/Pyton_Study$07_8_08.coverage" NAME="07_8_08 Coverage Results" MODIFIED="1656449221712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07_For_and_While_loops/07_8_Nested_Loops_Part_1" />

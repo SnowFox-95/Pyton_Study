@@ -1,6 +1,7 @@
-'''
+"""
 What's Your Name?
-Напишите программу, которая считывает с клавиатуры две строки – имя и фамилию пользователя и выводит фразу:
+Напишите программу, которая считывает с клавиатуры две строки – имя и фамилию
+пользователя и выводит фразу:
 
 «Hello [введенное имя] [введенная фамилия]! You just delved into Python».
 
@@ -11,9 +12,9 @@ What's Your Name?
 Программа должна вывести текст в соответствии с условием задачи.
 
 Примечание. Между firstname lastname вставьте пробел =)
-'''
+"""
 
 firstname = input()
 lastname = input()
 
-print('«Hello '+firstname+' '+lastname+'! You just delved into Python»')
+print('«Hello ' + firstname + ' ' + lastname + '! You just delved into Python»')

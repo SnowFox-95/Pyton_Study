@@ -1,4 +1,4 @@
-'''
+"""
 На плоскости евклидово расстояние между двумя точками (x_1;  y_1) и (x_2; y_2)
 определяется так ρ = sqrt{(x_1-x_2)^2 + (y_1-y_2)^2}.
 
@@ -13,13 +13,14 @@ x_1, y_1, x_2, y_2.
 
 Формат выходных данных
 Программа должна вывести одно число – евклидово расстояние.
-'''
+"""
 
-from math import sqrt,pow
+from math import sqrt, pow
+
 x1 = float(input())
 y1 = float(input())
 x2 = float(input())
 y2 = float(input())
 
-p = sqrt(pow(x1-x2,2)+pow(y1-y2,2))
-print (p)
+p = sqrt(pow(x1 - x2, 2) + pow(y1 - y2, 2))
+print(p)
