@@ -1,4 +1,4 @@
-'''
+"""
 Перестановка цифр
 Дано трехзначное число abc, в котором все цифры различны.
 Напишите программу, которая выводит шесть чисел, образованных при перестановке цифр заданного числа.
@@ -9,17 +9,17 @@
 Формат выходных данных
 Программа должна вывести шесть чисел, образованных при перестановке цифр заданного числа в следующем порядке:
  abc,acb,bac,bca,cab,cba.
-'''
+"""
 
 # put your python code here
 abc = int(input())
-a = abc//100
-b = (abc//10)%10
-c = abc%10
+a = abc // 100
+b = (abc // 10) % 10
+c = abc % 10
 
-print (abc)
-print (a,c,b,sep='')
-print (b,a,c,sep='')
-print (b,c,a,sep='')
-print (c,a,b,sep='')
-print (c,b,a,sep='')
+print(abc)
+print(a, c, b, sep='')
+print(b, a, c, sep='')
+print(b, c, a, sep='')
+print(c, a, b, sep='')
+print(c, b, a, sep='')

@@ -1,4 +1,4 @@
-'''
+"""
 Ход ладьи
 Даны две различные клетки шахматной доски. Напишите программу, которая определяет, может ли ладья
 попасть с первой клетки на вторую одним ходом. Программа получает на вход четыре числа от 1 до 8 каждое,
@@ -13,14 +13,15 @@
 Программа должна вывести текст в соответствии с условием задачи.
 
 Примечание. Шахматная ладья ходит по горизонтали или вертикали.
-'''
+"""
 
 fcol = int(input())
 fstr = int(input())
 lcol = int(input())
 lstr = int(input())
 
-if (fcol > lcol and lstr == fstr) or (fcol < lcol and lstr == fstr) or (fcol == lcol and lstr < fstr) or (
+if (fcol > lcol and lstr == fstr) or (fcol < lcol and lstr == fstr) or (
+        fcol == lcol and lstr < fstr) or (
         fcol == lcol and lstr > fstr):
     print('YES')
 else:
