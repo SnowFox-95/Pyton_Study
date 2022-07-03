@@ -8,22 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="migrating a part of a project to a separate project PythonBioI">
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/08_Exam3/08_2_7.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/Exam_Part1/exam1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/03_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/Exam_Part2/exam2_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/03_2_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/Exam_Part2/exam2_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/03_2_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/Exam_Part2/exam2_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/03_2_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/Exam_Part2/exam2_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/BEEGEEK/Junior/Exams/03_Exam1/03_2_04.py" afterDir="false" />
-    </list>
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="ExamModule_08 &amp; PEP8 allExamModules" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,23 +88,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "H:/MyPythonProjects/Pyton_Study/BEEGEEK/Junior/Exams/08_Exam3",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;H:/MyPythonProjects/Pyton_Study/BEEGEEK/Junior/Exams/08_Exam3&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="H:\MyPythonProjects\Pyton_Study\BEEGEEK\Junior\Exams\08_Exam3" />
@@ -287,7 +272,7 @@
       <workItem from="1656535912660" duration="4733000" />
       <workItem from="1656622398520" duration="1350000" />
       <workItem from="1656791470613" duration="2534000" />
-      <workItem from="1656832020395" duration="4187000" />
+      <workItem from="1656832020395" duration="4821000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -562,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656832789696</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="ExamModule_08 &amp; PEP8 allExamModules">
+      <created>1656836819264</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1656836819264</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,7 +629,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="readme files uploaded" />
     <MESSAGE value="06_2" />
     <MESSAGE value="06_2 upload" />
     <MESSAGE value="06_3 upload" />
@@ -662,7 +653,8 @@
     <MESSAGE value="BeeGek 09_1p2" />
     <MESSAGE value="migrating a part of a project to a separate project" />
     <MESSAGE value="migrating a part of a project to a separate project PythonBioI" />
-    <option name="LAST_COMMIT_MESSAGE" value="migrating a part of a project to a separate project PythonBioI" />
+    <MESSAGE value="ExamModule_08 &amp; PEP8 allExamModules" />
+    <option name="LAST_COMMIT_MESSAGE" value="ExamModule_08 &amp; PEP8 allExamModules" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
