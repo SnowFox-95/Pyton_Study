@@ -8,7 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="Pep8" />
+    <list default="true" id="8588faaf-2d80-4386-8dca-51e10604efd4" name="Changes" comment="update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,7 +274,7 @@
       <workItem from="1656791470613" duration="2534000" />
       <workItem from="1656832020395" duration="4821000" />
       <workItem from="1656839947338" duration="173000" />
-      <workItem from="1656863111857" duration="1984000" />
+      <workItem from="1656863111857" duration="2420000" />
     </task>
     <task id="LOCAL-00001" summary="-">
       <created>1655537162531</created>
@@ -584,7 +584,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656865087917</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="update">
+      <created>1656865552580</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1656865552580</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -659,7 +666,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="06_2 upload" />
     <MESSAGE value="06_3 upload" />
     <MESSAGE value="07_1" />
     <MESSAGE value="07_2" />
@@ -684,7 +690,8 @@
     <MESSAGE value="migrating a part of a project to a separate project PythonBioI" />
     <MESSAGE value="ExamModule_08 &amp; PEP8 allExamModules" />
     <MESSAGE value="Pep8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pep8" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Pyton_Study$07_2_11.coverage" NAME="07_2_11 Coverage Results" MODIFIED="1655847446415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BEEGEEK/Junior/07/07_2" />
