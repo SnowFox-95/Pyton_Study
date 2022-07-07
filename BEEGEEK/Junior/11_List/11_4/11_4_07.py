@@ -14,3 +14,28 @@ Google search - 2 🌶️🌶️
 
 Примечание. Поиск не должен быть чувствителен к регистру символов.
 """
+n = int(input())
+list_of_n = []
+search_str = ''
+search_rez = []
+for i in range(n):
+    x = input()
+    list_of_n.append(x)
+
+k = int(input())
+searching_list = []
+for i in range(k):
+    search = input()
+    searching_list.append(search)
+
+for i in range(len(list_of_n)):
+    count = 0
+    search_str = list_of_n[i]
+    for j in range(len(searching_list)):
+        control_str = searching_list[j]
+        if control_str.lower() in search_str.lower():
+            count += 1
+
+    if count == k:
+        search_rez.append(search_str)
+print(*search_rez, sep='\n')
