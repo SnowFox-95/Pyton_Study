@@ -13,3 +13,17 @@ Google search - 1
 
 Примечание. Поиск не должен быть чувствителен к регистру символов.
 """
+n = int(input())
+list_of_n = []
+search_str = ''
+search_rez = []
+for i in range(n):
+    x = input()
+    list_of_n.append(x)
+search = input()
+for i in range(len(list_of_n)):
+    search_str = list_of_n[i]
+    if search.lower() in search_str.lower():
+        search_rez.append(search_str)
+for s in search_rez:
+    print(s)
