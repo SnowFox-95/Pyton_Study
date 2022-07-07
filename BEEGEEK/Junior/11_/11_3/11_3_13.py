@@ -24,8 +24,8 @@ for i in range(1, n + 1):  # запрос n строк
 k = int(input())  # запрос k_символа
 for i in range(len(list_of_n_str)):
     str_temp = list_of_n_str[i]
-    if len(str_temp)<=k-1:
+    if len(str_temp) <= k - 1:
         continue
     else:
-        str_of_k_chr = str_of_k_chr+str_temp[k-1]
+        str_of_k_chr = str_of_k_chr + str_temp[k - 1]
 print(str_of_k_chr)
