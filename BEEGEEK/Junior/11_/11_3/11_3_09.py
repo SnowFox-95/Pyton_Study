@@ -10,3 +10,10 @@
 Формат выходных данных
 Программа должна вывести список, состоящий из кубов указанных чисел.
 """
+n = int(input())
+list_of_cubes = []
+for i in range(1, n + 1):
+    x = int(input())
+    cube_x = x ** 3
+    list_of_cubes.append(cube_x)
+print(list_of_cubes)
