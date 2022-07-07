@@ -15,3 +15,6 @@ C:\Windows\System32\calc.exe).
 Формат выходных данных
 Программа должна вывести текст в соответствии с условием задачи.
 """
+syspath = input()
+list_syspath = syspath.split('\\')
+print(*list_syspath,sep='\n')
