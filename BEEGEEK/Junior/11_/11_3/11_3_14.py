@@ -12,3 +12,10 @@
 
 Примечание. В результирующем списке могут содержаться одинаковые символы.
 """
+n = int(input())
+list_of_chr = []
+for i in range(n):
+    str_n = input()
+    for j in range(len(str_n)):
+        list_of_chr.append(str_n[j])
+print(list_of_chr)
