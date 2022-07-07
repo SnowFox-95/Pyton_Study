@@ -9,3 +9,10 @@
 Формат выходных данных
 Программа должна вывести текст в соответствии с условием задачи.
 """
+str = input()
+ini = ''
+inic_str = str.split()
+for i in range(len(inic_str)):
+    str_i = inic_str[i]
+    ini = ini + str_i[:1] + '.'
+print(ini)
