@@ -10,3 +10,10 @@
 Формат выходных данных
 Программа должна вывести список состоящий из указанных строк.
 """
+
+n = int(input())
+list_n_strings = []
+for i in range(1, n + 1):
+    str = input()
+    list_n_strings.append(str)
+print(list_n_strings)
