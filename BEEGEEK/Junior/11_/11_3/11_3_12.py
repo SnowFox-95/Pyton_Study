@@ -13,3 +13,11 @@
 
 Примечание. Используйте оператор del.
 """
+n = int(input())
+list_of_n = []
+list_of_2n = []
+for i in range(n):
+    x = int(input())
+    list_of_n.append(x)
+list_of_2n = list_of_n[::2]
+print(list_of_2n)
