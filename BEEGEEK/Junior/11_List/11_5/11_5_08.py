@@ -9,3 +9,9 @@
 Формат выходных данных
 Программа должна вывести текст в соответствии с условием задачи.
 """
+str = input()
+r = input()
+list_str = []
+for i in range(len(str)):
+    list_str.append(str[i])
+print(*list_str, sep=r)
