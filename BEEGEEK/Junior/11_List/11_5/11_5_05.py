@@ -17,4 +17,4 @@ C:\Windows\System32\calc.exe).
 """
 syspath = input()
 list_syspath = syspath.split('\\')
-print(*list_syspath,sep='\n')
+print(*list_syspath, sep='\n')

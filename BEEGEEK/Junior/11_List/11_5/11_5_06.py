@@ -10,3 +10,8 @@
 Формат выходных данных
 Программа должна вывести столбчатую диаграмму.
 """
+str = input()
+list_str = str.split()
+for i in range(len(list_str)):
+    mul_in_str = list_str[i]
+    print('+' * int(mul_in_str))
