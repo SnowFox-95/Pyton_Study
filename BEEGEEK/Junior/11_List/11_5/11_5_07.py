@@ -14,3 +14,14 @@ ip-адресом.
 Примечание. ip-адрес является корректным, если все 4 числа находятся в диапазоне от 0
 до 255 включительно.
 """
+ip_address = input()
+list_ip = ip_address.split('.')
+count = 0
+for i in range(len(list_ip)):
+    part_ip = int(list_ip[i])
+    if 0 <= part_ip <= 255:
+        count += 1
+if count == 4:
+    print('ДА')
+else:
+    print("НЕТ")
