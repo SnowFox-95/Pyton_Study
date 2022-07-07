@@ -9,3 +9,9 @@
 Формат выходных данных
 Программа должна вывести список, состоящий из делителей введенного числа.
 """
+n = int(input())
+list_of_del = []
+for i in range(1, n + 1):
+    if n % i == 0:
+        list_of_del.append(i)
+print(list_of_del)
