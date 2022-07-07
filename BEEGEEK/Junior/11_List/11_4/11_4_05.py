@@ -12,3 +12,10 @@
 
 Примечание. Считайте, что все строки состоят из строчных символов.
 """
+n = int(input())
+list_of_n = []
+for i in range(n):
+    x = input()
+    if x not in list_of_n:
+        list_of_n.append(x)
+print(*list_of_n, sep='\n')
