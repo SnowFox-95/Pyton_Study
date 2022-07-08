@@ -11,3 +11,12 @@
 Формат выходных данных
 Программа должна вывести две строки текста в соответствии с условием задачи.
 """
+
+str = input()
+list_str = str.split()
+for i in range(len(list_str)):
+    list_str[i] = int(list_str[i])
+list_str.sort()
+print(*list_str)
+list_str.sort(reverse=True)
+print(*list_str)
