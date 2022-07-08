@@ -20,4 +20,3 @@ for i in range(len(list_str)):
     if list_str[i] == 'a' or list_str[i] == 'an' or list_str[i] == 'the':
         count += 1
 print('Общее количество артиклей:', count)
-
