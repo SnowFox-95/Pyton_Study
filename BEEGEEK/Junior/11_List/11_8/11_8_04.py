@@ -8,11 +8,12 @@ a = [17, 24, 91, 96, 67, -27, 79, -71, -71, 58, 48, 88, 88, -16, -78, 96, -76, 5
      63, -75, -19, -13, -51, -74, 21, -8, 21, -68, -66, -84, -95, 78, 69, -29, 39, 38,
      -55, 7, -11, -26, -62, -84]
 
-n = len(a)
-
-for i in range(n - 1):
-    for j in range(n - i - 1):
+for i in range(len(a)):
+    flag = True
+    for j in range(len(a) - i - 1):
         if a[j] > a[j + 1]:
             a[j], a[j + 1] = a[j + 1], a[j]
-
+            flag = False
+    if flag:
+        break
 print(a)
