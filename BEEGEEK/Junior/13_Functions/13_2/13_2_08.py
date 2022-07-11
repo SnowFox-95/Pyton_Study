@@ -9,9 +9,17 @@ base – величина основания равнобедренного тр
 Примечание. Гарантируется, что основание треугольника – нечетное число.
 """
 
+
 # объявление функции
 def draw_triangle(fill, base):
-    pass
+    for i in range(base // 2 + 1):
+        for j in range(i + 1):
+            print(fill, end='')
+        print()
+    for i in range(base // 2 - 1, -1, -1):
+        for j in range(i + 1):
+            print(fill, end='')
+        print()
 
 
 # считываем данные
