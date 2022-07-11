@@ -18,7 +18,8 @@ print(get_factors(10))
 
 # объявление функции
 def get_factors(num):
-    pass
+    list_factors = [i for i in range(1, num + 1) if num % i == 0]
+    return list_factors
 
 
 # считываем данные
