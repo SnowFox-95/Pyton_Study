@@ -22,7 +22,8 @@ print(get_days(9))
 
 # объявление функции
 def get_days(month):
-    pass
+    list_days = "31 28 31 30 31 30 31 31 30 31 30 31".split(' ')
+    return list_days[month - 1]
 
 
 # считываем данные
