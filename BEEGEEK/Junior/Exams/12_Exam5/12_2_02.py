@@ -14,3 +14,11 @@
 
 Примечание. Количество чисел в обеих строках одинаковое.
 """
+list_l = input().split(' ')
+list_m = input().split(' ')
+list_k = []
+for i in range(len(list_l)):
+    list_l[i] = int(list_l[i])
+    list_m[i] = int(list_m[i])
+    list_k.append(list_l[i] + list_m[i])
+print(*list_k, sep=' ')
