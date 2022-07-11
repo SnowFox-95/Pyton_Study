@@ -15,7 +15,11 @@ print(number_of_factors(10))
 
 # объявление функции
 def number_of_factors(num):
-    pass
+    counter = 0
+    list_factors = [i for i in range(1, num + 1) if num % i == 0]
+    for i in range(len(list_factors)):
+        counter += 1
+    return counter
 
 
 # считываем данные
