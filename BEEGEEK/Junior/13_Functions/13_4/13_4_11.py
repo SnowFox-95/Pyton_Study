@@ -19,9 +19,31 @@ print(merge([1, 7, 10, 16], [5, 6, 13, 20]))
 """
 
 
-# объявление функции
-def merge(list1, list2):
-    pass
+# объявление функции c сортировкой пузырьком
+def merge_puz(list1, list2):
+    list3 = list1 + list2
+    for i in range(len(list3) - 1):
+        for j in range(len(list3) - i - 1):
+            if list3[j] > list3[j + 1]:
+                list3[j], list3[j + 1] = list3[j + 1], list3[j]
+    return list3
+
+
+# объявление функции c сортировкой выбором
+def merge_sel(list1, list2):
+    list3 = list1 + list2
+    for i in range(len(list3) - 1):
+        for j in range(i + 1, len(list3)):
+            if list3[j] < list3[i]:
+                list3[j], list3[i] = list3[i], list3[j]
+    return list3
+
+
+# объявление функции c методом sort()
+def merge_sort(list1, list2):
+    list3 = list1 + list2
+    list3.sort()
+    return list3
 
 
 # считываем данные
@@ -29,4 +51,7 @@ numbers1 = [int(c) for c in input().split()]
 numbers2 = [int(c) for c in input().split()]
 
 # вызываем функцию
-print(merge(numbers1, numbers2))
+
+print('Соединение списков и сортировка пузырьком', merge_puz(numbers1, numbers2))
+print('Соединение списков и сортировка выбором', merge_sel(numbers1, numbers2))
+print('Соединение списков и сортировка методом sort()', merge_sort(numbers1, numbers2))
