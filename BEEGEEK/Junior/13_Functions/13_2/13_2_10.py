@@ -4,9 +4,14 @@
 на печать сумму его цифр.
 """
 
+
 # объявление функции
 def print_digit_sum(num):
-    pass
+    num_0 = str(num)
+    list_num = [int(i) for i in num_0]
+    summ = sum(list_num)
+    print(summ)
+
 
 # считываем данные
 n = int(input())
