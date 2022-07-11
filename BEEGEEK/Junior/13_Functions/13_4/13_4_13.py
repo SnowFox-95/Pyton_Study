@@ -12,3 +12,12 @@ quick_merge(), а затем выводит его.
 Формат выходных данных
 Программа должна вывести текст в соответствии с условием задачи.
 """
+
+
+def quick_merge(num):
+    return sorted([int(i) for i in range(num) for i in input().split()])
+
+
+n = int(input())
+
+print(*quick_merge(n))
