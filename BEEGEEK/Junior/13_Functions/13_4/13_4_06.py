@@ -15,9 +15,12 @@ print(convert_to_miles(10))
 3.107
 6.214
 """
+
+
 # объявление функции
 def convert_to_miles(km):
-    pass
+    return km * 0.6214
+
 
 # считываем данные
 num = int(input())
