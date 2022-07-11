@@ -18,9 +18,15 @@ print(find_all('abcadbcaaa', 'e'))
 print(find_all('abcadbcaaa', 'd'))
 """
 
+
 # объявление функции
 def find_all(target, symbol):
-    pass
+    finded_list = []
+    for c in range(len(target)):
+        if target[c] == symbol:
+            finded_list.append(c)
+    return finded_list
+
 
 # считываем данные
 s = input()
