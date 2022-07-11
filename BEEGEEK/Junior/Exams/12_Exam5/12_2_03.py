@@ -13,3 +13,11 @@
 
 Примечание. Строковый метод join() работает только со списком строк.
 """
+list_n = input().split(' ')
+summ_n = 0
+for i in range(len(list_n)):
+    list_n[i] = int(list_n[i])
+    summ_n += list_n[i]
+for i in range(len(list_n) - 1):
+    print(list_n[i], end='+')
+print(*(list_n[-1:]), '=', summ_n, sep='')
