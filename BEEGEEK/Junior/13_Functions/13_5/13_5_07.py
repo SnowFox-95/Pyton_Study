@@ -24,13 +24,10 @@ False
 
 # объявление функции
 def is_palindrome(text):
-    clean_rev_text = text[::-1].replace(' ', '').replace('.', '').replace(',',
-                                                                          '').replace('!',
-                                                                                      '').replace(
-        '?', '').replace('-', '').lower()
-    clean_text = text[:].replace(' ', '').replace('.', '').replace(',', '').replace('!',
-                                                                                    '').replace(
-        '?', '').replace('-', '').lower()
+    clean_rev_text = text[::-1].replace(' ', '').replace('.', '').replace(',', ''). \
+        replace('!', '').replace('?', '').replace('-', '').lower()
+    clean_text = text[:].replace(' ', '').replace('.', '').replace(',', ''). \
+        replace('!', '').replace('?', '').replace('-', '').lower()
     if len(clean_text) == len(clean_rev_text):
         count = 0
         for i in range(len(clean_text)):
