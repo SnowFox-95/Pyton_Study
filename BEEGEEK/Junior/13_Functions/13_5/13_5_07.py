@@ -24,7 +24,24 @@ False
 
 # объявление функции
 def is_palindrome(text):
-    pass
+    clean_rev_text = text[::-1].replace(' ', '').replace('.', '').replace(',',
+                                                                          '').replace('!',
+                                                                                      '').replace(
+        '?', '').replace('-', '').lower()
+    clean_text = text[:].replace(' ', '').replace('.', '').replace(',', '').replace('!',
+                                                                                    '').replace(
+        '?', '').replace('-', '').lower()
+    if len(clean_text) == len(clean_rev_text):
+        count = 0
+        for i in range(len(clean_text)):
+            if clean_text[i] == clean_rev_text[i]:
+                count += 1
+        if count == len(clean_text) and count == len(clean_rev_text):
+            return True
+        else:
+            return False
+    else:
+        return False
 
 
 # считываем данные
