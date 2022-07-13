@@ -17,7 +17,12 @@ is_prime_number
 
 # объявление функции
 def convert_to_python_case(text):
-    pass
+    new_text = ''
+    for el in text:
+        if el.isupper():
+            new_text += '_'
+        new_text += el.lower()
+    return new_text[1:]
 
 
 # считываем данные
@@ -25,3 +30,9 @@ txt = input()
 
 # вызываем функцию
 print(convert_to_python_case(txt))
+
+#tests DONOTCOPY!
+print(convert_to_python_case('ThisIsCamelCased'))
+print(convert_to_python_case('IsPrimeNumber'))
+print(convert_to_python_case('ConvertToInt32'))
+print(convert_to_python_case('MyMethodThatDoSomething'))
