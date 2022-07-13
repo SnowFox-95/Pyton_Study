@@ -1,6 +1,7 @@
 """
 Змеиный регистр
-Напишите функцию convert_to_python_case(text), которая принимает в качестве аргумента строку в «верблюжьем регистре» и преобразует его в «змеиный регистр».
+Напишите функцию convert_to_python_case(text), которая принимает в качестве  аргумента
+строку в «верблюжьем регистре» и преобразует его в «змеиный регистр».
 
 Примечание 1. Почитать подробнее о стилях именования можно тут.
 
@@ -31,7 +32,7 @@ txt = input()
 # вызываем функцию
 print(convert_to_python_case(txt))
 
-#tests DONOTCOPY!
+# tests DONOTCOPY!
 print(convert_to_python_case('ThisIsCamelCased'))
 print(convert_to_python_case('IsPrimeNumber'))
 print(convert_to_python_case('ConvertToInt32'))
