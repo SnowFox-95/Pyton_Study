@@ -38,13 +38,14 @@ def is_correct_bracket(text):
         else:
             return False
 
+
 # считываем данные
 txt = input()
 
 # вызываем функцию
 print(is_correct_bracket(txt))
 
-#tests DONOTCOPY!!!
+# tests DONOTCOPY!!!
 print('#1', is_correct_bracket('((()))'))  # 1
 print('#2', is_correct_bracket('(()())'))  # 2
 print('#3', is_correct_bracket('(())()'))  # 3

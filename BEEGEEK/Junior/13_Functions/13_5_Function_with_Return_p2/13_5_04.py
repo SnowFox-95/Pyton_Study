@@ -20,15 +20,12 @@ print(get_next_prime(14))
 
 # объявление функции
 def get_next_prime(num):
-    flag = True
-
     for i in range(num + 1, 1000):
         count = 0
         for j in range(1, 1000):
             if i % j == 0:
                 count += 1
         if count == 2:
-            flag = False
             break
     return i
 
