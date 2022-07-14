@@ -20,7 +20,9 @@ print(get_middle_point(1, 5, 8, 3))
 
 # объявление функции
 def get_middle_point(x1, y1, x2, y2):
-    pass
+    x_middle = (x1 + x2) / 2
+    y_middle = (y1 + y2) / 2
+    return x_middle, y_middle
 
 
 # считываем данные
@@ -29,4 +31,12 @@ x_2, y_2 = int(input()), int(input())
 
 # вызываем функцию
 x, y = get_middle_point(x_1, y_1, x_2, y_2)
+print(x, y)
+
+# Tests. DONOTCOPY!
+x, y = get_middle_point(1, 1, 2, 2)
+print(x, y)
+x, y = get_middle_point(-10, 10, 0, 100)
+print(x, y)
+x, y = get_middle_point(10, 10, 10, 20)
 print(x, y)
