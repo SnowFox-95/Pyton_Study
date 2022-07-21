@@ -16,10 +16,10 @@
 """
 
 
-# объявление функции
 def draw_triangle():
-    pass
-
+    m = 15
+    for i in range(1, m + 1, 2):
+        print(' ' * ((m - i) // 2) + '*' * i)
 
 # основная программа
-draw_triangle()  # вызов функции
+draw_triangle()
