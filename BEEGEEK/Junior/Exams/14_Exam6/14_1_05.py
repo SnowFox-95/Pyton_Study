@@ -18,7 +18,9 @@ print(get_shipping_cost(3))
 
 # объявление функции
 def get_shipping_cost(quantity):
-    pass
+    quantity = quantity - 1
+    cost = 1000 + (120*quantity)
+    return cost
 
 
 # считываем данные
