@@ -11,10 +11,13 @@ n!/k!(n-k)!.
 числа или воспользуйтесь уже готовой функцией из модуля math.
 """
 
+from math import factorial
+
 
 # объявление функции
 def compute_binom(n, k):
-    pass
+    binom = factorial(n) / (factorial(k) * (factorial(n - k)))
+    return int(binom)
 
 
 # считываем данные
