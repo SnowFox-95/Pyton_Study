@@ -20,7 +20,14 @@ False
 
 # объявление функции
 def is_magic(date):
-    pass
+    list_date = date.split('.')
+    day_date = int(list_date[0])
+    month_date = int(list_date[1])
+    year_date = int(str(list_date[2])[-2:])
+    if day_date * month_date == year_date:
+        return True
+    else:
+        return False
 
 
 # считываем данные
