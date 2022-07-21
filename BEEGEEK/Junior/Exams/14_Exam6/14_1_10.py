@@ -25,7 +25,13 @@ False
 
 # объявление функции
 def is_pangram(text):
-    pass
+    clean_text = text.lower().replace(' ','')
+    set_text = set(clean_text)
+
+    if len(set_text) == 26:
+        return True
+    else:
+        return False
 
 
 # считываем данные
