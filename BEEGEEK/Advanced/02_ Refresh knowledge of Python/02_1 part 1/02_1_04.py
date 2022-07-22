@@ -10,3 +10,12 @@
 Формат выходных данных
 Программа должна вывести стоимость строки.
 """
+str = input()
+cop = 0
+rub = 0
+for i in range(len(str)):
+    cop += 60
+if cop > 100:
+    rub = cop // 100
+    cop = cop % 100
+print(rub, 'р.', cop, 'коп.')
