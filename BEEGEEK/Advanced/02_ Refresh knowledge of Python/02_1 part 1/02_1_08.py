@@ -10,3 +10,5 @@ Standard American Convention
 Формат выходных данных
 Программа должна вывести число с запятыми в соответствии с условием задачи.
 """
+numb = int(input())
+print('{:,}'.format(numb))
