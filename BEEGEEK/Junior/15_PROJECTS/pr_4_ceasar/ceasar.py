@@ -38,18 +38,11 @@ def ceasar_rot(destin, language, string, rotate):
             for i in range(len(old_str)):
                 if string[i] in EN_LANG_UP:
                     order = ord(string[i])
-
-                    new_order = order - rotate
-                    if new_order < 64:
-                        new_order += 26
-                    else:
-                        continue
+                    new_order = order - rotate % len(EN_LANG_UP)
                     rez_str = rez_str + chr(new_order)
                 elif string[i] in EN_LANG_LO:
                     order = ord(string[i])
-                    new_order = order - rotate
-                    if new_order < 96:
-                        new_order += 26
+                    new_order = order - rotate % len(EN_LANG_LO)
                     rez_str = rez_str + chr(new_order)
                 else:
                     rez_str = rez_str + string[i]
@@ -57,15 +50,11 @@ def ceasar_rot(destin, language, string, rotate):
             for i in range(len(old_str)):
                 if string[i] in RU_LANG_UP:
                     order = ord(string[i])
-                    new_order = order - rotate
-                    if new_order < 1039:
-                        new_order += 32
+                    new_order = order - rotate % len(RU_LANG_UP)
                     rez_str = rez_str + chr(new_order)
                 elif string[i] in RU_LANG_LO:
                     order = ord(string[i])
-                    new_order = order - rotate
-                    if new_order < 1071:
-                        new_order += 32
+                    new_order = order - rotate % len(RU_LANG_LO)
                     rez_str = rez_str + chr(new_order)
                 else:
                     rez_str = rez_str + string[i]
@@ -74,16 +63,11 @@ def ceasar_rot(destin, language, string, rotate):
             for i in range(len(old_str)):
                 if string[i] in EN_LANG_UP:
                     order = ord(string[i])
-                    new_order = order + rotate
-                    if new_order > 91:
-                        new_order -= 26
+                    new_order = order + rotate % len(EN_LANG_UP)
                     rez_str = rez_str + chr(new_order)
                 elif string[i] in EN_LANG_LO:
                     order = ord(string[i])
-                    new_order = order + rotate
-                    if new_order > 123:
-                        new_order -= 26
-
+                    new_order = order + rotate % len(EN_LANG_LO)
                     rez_str = rez_str + chr(new_order)
                 else:
                     rez_str = rez_str + string[i]
@@ -91,21 +75,18 @@ def ceasar_rot(destin, language, string, rotate):
             for i in range(len(old_str)):
                 if string[i] in RU_LANG_UP:
                     order = ord(string[i])
-                    new_order = order + rotate
-                    if new_order > 1072:
-                        new_order -= 32
+                    new_order = order + rotate % len(RU_LANG_UP)
                     rez_str = rez_str + chr(new_order)
                 elif string[i] in RU_LANG_LO:
                     order = ord(string[i])
-                    new_order = order + rotate
-                    if new_order > 1104:
-                        new_order -= 32
+                    new_order = order + rotate % len(RU_LANG_LO)
                     rez_str = rez_str + chr(new_order)
                 else:
                     rez_str = rez_str + string[i]
+
     return rez_str
 
-  
+
 dest = dest_valid()  # по флагу True - дешифровка, по False - расшифровка
 lang = lang_valid()  # по флагу True - английский, по False - русский
 
