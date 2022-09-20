@@ -4,9 +4,12 @@
 """
 
 
-def main():
-    pass
+def main(st):
+    s = set(st)
+    s = (list(s))
+    print(*s)
 
 
 if __name__ == "__main__":
-    main()
+    string = input().split('&')
+    main(string)
