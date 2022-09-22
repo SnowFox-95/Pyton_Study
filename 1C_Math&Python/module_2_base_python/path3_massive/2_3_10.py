@@ -4,9 +4,11 @@
 """
 
 
-def main():
-    pass
+def main(str):
+    new_str = str[::-1]
+    print("-$-".join(new_str))
 
 
 if __name__ == "__main__":
-    main()
+    string = input().split(' ')
+    main(string)
