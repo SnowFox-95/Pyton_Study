@@ -7,9 +7,12 @@
 """
 
 
-def main():
-    pass
+def main(str):
+    str_count = len(str)
+    one_count = str.count('one')
+    print(f"{str_count} {one_count}")
 
 
 if __name__ == "__main__":
-    main()
+    string = input().split(' ')
+    main(string)
