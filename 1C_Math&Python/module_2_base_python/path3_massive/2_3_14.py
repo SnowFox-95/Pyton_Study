@@ -6,9 +6,14 @@
 """
 
 
-def main():
-    pass
+def main(L):
+    summ = 0
+    p = list(map(int, L))
+    for i in range(0, len(p)):
+        summ += p[i]
+    print(summ)
 
 
 if __name__ == "__main__":
-    main()
+    List = input().split(' ')
+    main(List)
