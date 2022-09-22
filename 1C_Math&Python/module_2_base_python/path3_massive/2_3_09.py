@@ -4,9 +4,11 @@
 """
 
 
-def main():
-    pass
+def main(lst):
+    new_str = str(lst[1]) + ' ' + str(lst[2]) + ' ' + str(lst[-2])
+    print(new_str)
 
 
 if __name__ == "__main__":
-    main()
+    string = input().split(' ')
+    main(string)
