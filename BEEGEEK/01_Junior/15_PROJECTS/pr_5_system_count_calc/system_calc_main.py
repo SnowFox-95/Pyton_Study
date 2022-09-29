@@ -19,6 +19,8 @@ if __name__ == "__main__":
         number_system = input()
         if functions.is_valid_system(number_system.lower()):
             functions.interface_calc()
+            print("Результат = ", functions.calculation(digit, number_system))
+
         else:
             print(
                 "Это первая версия калькулятора и функционал пока тут ограничен :( \n "
@@ -27,5 +29,5 @@ if __name__ == "__main__":
                 "HEX - шестнадцатеричная, \n"
                 "OCT - восмеричная, \n"
                 "QUA - четверичная, \n"
-                "BIN - бинарная(двоичная).\n""
+                "BIN - бинарная(двоичная).\n"
             )
