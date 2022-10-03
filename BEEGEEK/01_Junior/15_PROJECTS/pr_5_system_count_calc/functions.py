@@ -25,7 +25,7 @@ def interface_calc():
     print("Готово!")
 
 
-def calculation(dig, n_sys):
+def calculation(dig, n_sys) -> int:
     global list_system
     if n_sys == list_system[0]:
         rez = calc_hex(dig)
@@ -53,19 +53,35 @@ def calc_bin(dig):
 def calc_qua(dig):
     len_dig = len(dig)
     summ = 0
-    # TODO transfer qua -> dec
+    for i in range(1, len_dig + 1):
+        digit = int(dig[-i])
+        summ += int(digit * (4 ** (i - 1)))
     return summ
 
 
 def calc_oct(dig):
     len_dig = len(dig)
     summ = 0
-    # TODO transfer oct -> dec
+    for i in range(1, len_dig + 1):
+        digit = int(dig[-i])
+        summ += int(digit * (8 ** (i - 1)))
     return summ
 
 
 def calc_hex(dig):
     len_dig = len(dig)
     summ = 0
-    # TODO transfer hex -> dec
+    for i in range(1, len_dig + 1):
+        hex_list = "a b c d e f".split(' ')
+        digit = str(dig[-i]).lower()
+        if digit in hex_list:
+            for j in range(0, len(hex_list)):
+                if digit == hex_list[j]:
+                    digit = int('1' + str(j))
+                    summ += int(digit * (16 ** (i - 1)))
+                else:
+                    continue
+        else:
+            digit = int(digit)
+            summ += int(digit * (16 ** (i - 1)))
     return summ
