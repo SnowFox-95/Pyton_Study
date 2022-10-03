@@ -1,33 +1,57 @@
-import functions
+from interface import is_valid_menu, interface_calc, is_valid_system, calculation_in_dec
 
 if __name__ == "__main__":
     print(
         "Привет! Я калькулятор систем счисления. Помогу перевести любое число в десятичную систему.\n"
-        "Загадай число для перевода:"
-    )
-    digit = input()
-    print(
-        "Замечательно! \n"
-        "А в какой системе счислений изначально это число? \n"
-        "\n"
-        "HEX - шестнадцатеричная, \n"
-        "OCT - восмеричная, \n"
-        "QUA - четверичная, \n"
-        "BIN - бинарная(двоичная).\n"
+        "Выбери пункт меню, пожалуйста:\n"
+        "1 - перевод из десятичной системы счислений в другую систему счислений;\n"
+        "2 - перевод из заданной системы счислений в десятичную"
     )
     while True:
-        number_system = input()
-        if functions.is_valid_system(number_system.lower()):
-            functions.interface_calc()
-            print("Результат = ", functions.calculation(digit, number_system))
+        menu = input()
+        if is_valid_menu(menu):
+            if menu == 1:
+                print("Запиши число в десятичной системе счисления (используя цифры от 0 до 9)")
+                digit = input()
+                print("Замечательно! \n"
+                      "А в какую систему счислений перевести это число? \n"
+                      "\n"
+                      "HEX - шестнадцатеричная, \n"
+                      "OCT - восмеричная, \n"
+                      "QUA - четверичная, \n"
+                      "BIN - бинарная(двоичная).\n")
+                while True:
+                    number_system = input()
+                    if is_valid_system(number_system.lower()):
+                        interface_calc()
+                    print("passed")
+            else:
+                print("Загадай число для перевода:")
+                digit = input()
+                print(
+                    "Замечательно! \n"
+                    "А в какой системе счислений изначально это число? \n"
+                    "\n"
+                    "HEX - шестнадцатеричная, \n"
+                    "OCT - восмеричная, \n"
+                    "QUA - четверичная, \n"
+                    "BIN - бинарная(двоичная).\n"
+                )
+                while True:
+                    number_system = input()
+                    if is_valid_system(number_system.lower()):
+                        interface_calc()
+                        print("Результат = ", calculation(digit, number_system))
 
+                    else:
+                        print(
+                            "Это первая версия калькулятора и функционал пока тут ограничен :( \n "
+                            "Пожалуйста, укажи из что-то из систем счисления о которых мне известно.\n"
+                            "\n"
+                            "HEX - шестнадцатеричная, \n"
+                            "OCT - восмеричная, \n"
+                            "QUA - четверичная, \n"
+                            "BIN - бинарная(двоичная).\n"
+                        )
         else:
-            print(
-                "Это первая версия калькулятора и функционал пока тут ограничен :( \n "
-                "Пожалуйста, укажи из что-то из систем счисления о которых мне известно.\n"
-                "\n"
-                "HEX - шестнадцатеричная, \n"
-                "OCT - восмеричная, \n"
-                "QUA - четверичная, \n"
-                "BIN - бинарная(двоичная).\n"
-            )
+            print("Кажется выбран несуществующий пункт меню. Попробуй еще раз")
