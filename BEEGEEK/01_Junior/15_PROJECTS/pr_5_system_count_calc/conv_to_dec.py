@@ -1,5 +1,5 @@
 # convert 2 -> 10
-def calc_bin(dig):
+def calc_in_bin(dig):
     len_dig = len(dig)
     summ = 0
     for i in range(1, len_dig + 1):
@@ -9,7 +9,7 @@ def calc_bin(dig):
 
 
 # convert 4 -> 10
-def calc_qua(dig):
+def calc_in_qua(dig):
     len_dig = len(dig)
     summ = 0
     for i in range(1, len_dig + 1):
@@ -19,7 +19,7 @@ def calc_qua(dig):
 
 
 # convert 8 -> 10
-def calc_oct(dig):
+def calc_in_oct(dig):
     len_dig = len(dig)
     summ = 0
     for i in range(1, len_dig + 1):
@@ -29,7 +29,7 @@ def calc_oct(dig):
 
 
 # convert 16 -> 10
-def calc_hex(dig):
+def calc_in_hex(dig):
     len_dig = len(dig)
     summ = 0
     for i in range(1, len_dig + 1):

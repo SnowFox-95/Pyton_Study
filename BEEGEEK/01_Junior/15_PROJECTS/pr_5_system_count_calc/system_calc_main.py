@@ -1,4 +1,4 @@
-from interface import is_valid_menu, interface_calc, is_valid_system, calculation_in_dec
+from interface import *
 
 if __name__ == "__main__":
     print(
@@ -10,7 +10,7 @@ if __name__ == "__main__":
     while True:
         menu = input()
         if is_valid_menu(menu):
-            if menu == 1:
+            if menu == "1":
                 print("Запиши число в десятичной системе счисления (используя цифры от 0 до 9)")
                 digit = input()
                 print("Замечательно! \n"
@@ -24,7 +24,17 @@ if __name__ == "__main__":
                     number_system = input()
                     if is_valid_system(number_system.lower()):
                         interface_calc()
-                    print("passed")
+                        print("Результат = ", calculation_from_dec(digit, number_system))
+                    else:
+                        print(
+                            "Это первая версия калькулятора и функционал пока тут ограничен :( \n "
+                            "Пожалуйста, укажи из что-то из систем счисления о которых мне известно.\n"
+                            "\n"
+                            "HEX - шестнадцатеричная, \n"
+                            "OCT - восмеричная, \n"
+                            "QUA - четверичная, \n"
+                            "BIN - бинарная(двоичная).\n"
+                        )
             else:
                 print("Загадай число для перевода:")
                 digit = input()
@@ -41,7 +51,7 @@ if __name__ == "__main__":
                     number_system = input()
                     if is_valid_system(number_system.lower()):
                         interface_calc()
-                        print("Результат = ", calculation(digit, number_system))
+                        print("Результат = ", calculation_in_dec(digit, number_system))
 
                     else:
                         print(

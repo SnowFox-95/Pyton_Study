@@ -1,5 +1,6 @@
 import time
-from conv_to_dec import calc_bin, calc_qua, calc_oct, calc_hex
+from conv_to_dec import *
+from conv_from_dec import *
 
 
 def is_valid_menu(m_sys):
@@ -38,14 +39,30 @@ def interface_calc():
 def calculation_in_dec(dig, n_sys) -> int:
     global list_system
     if n_sys == list_system[0]:
-        rez = calc_hex(dig)
+        rez = calc_in_hex(dig)
         return int(rez)
     elif n_sys == list_system[1]:
-        rez = calc_oct(dig)
+        rez = calc_in_oct(dig)
         return int(rez)
     elif n_sys == list_system[2]:
-        rez = calc_qua(dig)
+        rez = calc_in_qua(dig)
         return int(rez)
     else:
-        rez = calc_bin(dig)
+        rez = calc_in_bin(dig)
+        return int(rez)
+
+
+def calculation_from_dec(dig, n_sys) -> int:
+    global list_system
+    if n_sys == list_system[0]:
+        rez = calc_from_hex(dig)
+        return int(rez)
+    elif n_sys == list_system[1]:
+        rez = calc_from_oct(dig)
+        return int(rez)
+    elif n_sys == list_system[2]:
+        rez = calc_from_qua(dig)
+        return int(rez)
+    else:
+        rez = calc_from_bin(dig)
         return int(rez)
