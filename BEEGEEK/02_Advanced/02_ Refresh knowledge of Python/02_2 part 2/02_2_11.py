@@ -16,4 +16,12 @@
 
 Примечание 2. Поем и решаем, друзья, поем и решаем 😂.
 """
-# Решение появится тут очень скоро :)
+
+
+word = input() + ' запретил букву'
+alpha = [chr(i) for i in range(1072, 1104)]
+
+for letter in alpha:
+    if letter in word:
+        print(word, letter)
+        word = word.replace(letter, '').replace('  ', ' ').strip()
